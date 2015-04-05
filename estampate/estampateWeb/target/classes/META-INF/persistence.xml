@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.1" xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd">
+	<persistence-unit name="estampatePU">
+	 	<provider>org.hibernate.ejb.HibernatePersistence</provider>
+      	<jta-data-source>java:/estampateDS</jta-data-source>
+		<class>edu.estampate.service.entidades.Camiseta</class>
+		<class>edu.estampate.service.entidades.CarritoCompra</class>
+		<class>edu.estampate.service.entidades.ColorCamiseta</class>
+		<class>edu.estampate.service.entidades.Estampa</class>
+		<class>edu.estampate.service.entidades.MaterialCamiseta</class>
+		<class>edu.estampate.service.entidades.MetodoEnvio</class>
+		<class>edu.estampate.service.entidades.MetodoPago</class>
+		<class>edu.estampate.service.entidades.Persona</class>
+		<class>edu.estampate.service.entidades.Privilegio</class>
+		<class>edu.estampate.service.entidades.RedSocial</class>
+		<class>edu.estampate.service.entidades.Rol</class>
+		<class>edu.estampate.service.entidades.RolPrivilegio</class>
+		<class>edu.estampate.service.entidades.TallaCamiseta</class>
+		<class>edu.estampate.service.entidades.TamanoEstampado</class>
+		<class>edu.estampate.service.entidades.Tema</class>
+		<class>edu.estampate.service.entidades.UbicacionEstampado</class>
+		<class>edu.estampate.service.entidades.Usuario</class>
+		<class>edu.estampate.service.entidades.UsuarioRedsocial</class>
+		<class>edu.estampate.service.entidades.Venta</class>
+		<properties>
+			<property name="hibernate.dialect" value="org.hibernate.dialect.Oracle10gDialect" />
+			<property name="hibernate.show_sql" value="true" />
+		</properties>
+	</persistence-unit>
+</persistence>
