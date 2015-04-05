@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="shortcut icon" href="../../docs-assets/ico/favicon.png">
+
+    <title>Vabrik Fashion</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="../bootstrap/css/bootstrap.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="../css/dashboard.css" rel="stylesheet">
+    <link href="../css/personalizar.css" rel="stylesheet">
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+    <script type="text/javascript" src="http://cdn.jsdelivr.net/jquery.validation/1.13.1/jquery.validate.min.js"></script>
+
+    <!-- If you're using Stripe for payments -->
+    <script type="text/javascript" src="https://js.stripe.com/v2/"></script>
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+    
+</head>
+
+<body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#">Vabrik Fashion</a>
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="#">Carrito</a>
+                    </li>
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="../vabrik.html">Sign out</a>
+                    </li>
+                </ul>
+                <form class="navbar-form navbar-right">
+                    <input type="text" class="form-control" placeholder="Search...">
+                    <button type="submit" class="btn btn-info">Search</button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-sm-3 sidebar">
+                <ul class="nav nav-sidebar">
+                    <li><a href="../html/perfil.html">Perfil</a>
+                    </li>
+                </ul>
+                <ul class="nav nav-sidebar">
+                    <li><a href="../html/comprador_catalogo_camiseta.html">Camisetas</a>
+                    </li>
+                    <li class="active"><a href="../html/comprador_catalogo_estampado.html">Estampados</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-sm-9 col-sm-offset-3 main">
+                <h1 class="page-header">Checkout</h1>
+                
+                <div class="row placeholders">
+                    <div class="container-fluid">
+                        <div class="content-wrapper">   
+                            <div class="item-container">    
+                                <div class="container"> 
+                                    <div class="col-md-12">
+                                        
+
+                                        <!-- Pasos para pago -->
+                                        <div class="container">
+                                            <form role="form">
+                                                <div class="row setup-content" id="step-1">
+                                                    <div class="col-xs-12">
+                                                        <div class="col-md-12">
+                                                            <legend>Información de entrega</legend>
+                                                            <br><br>
+                                                            <div class="col-md-7 container-fluid well span6">
+                                                                <div class="row-fluid">
+                                                                    <div class="col-md-6 span2" >
+                                                                        <img src="https://secure.gravatar.com/avatar/800ab726e161fbc7a6846a5569489d86.jpg?s=46&amp;d=https%3A%2F%2Fcdn.shopify.com%2Fs%2Fassets%2Fcheckout%2Ficons%2Fgeneric-avatar-d506650896b57ee9a72be58464b55518.jpg" class="img-circle">
+                                                                    </div>
+                                                                    
+                                                                    <div class="span8" style="text-align: left;">
+                                                                        <strong>vp.salcedos@gmail.com</strong>
+                                                                        <h6>Nombres: Viviana</h6>
+                                                                        <h6>Apellidos: Salcedo</h6>
+                                                                        <h6>Ciudad: Bogotá</h6>
+                                                                        <h6>Dirección: Cra 49B No. 169 -50</h6>
+                                                                    </div>
+                                                                    
+                                                                    <div class="col-md-6 span2">
+                                                                        <a class="section__edit-link" data-edit-contact-information="true" href="../html/perfil.html">Edit</a>
+                                                                    </div>
+                                                            </div>
+                                                            </div>
+                                                            
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <br><br>
+                                                <div class="row setup-content" id="step-2">
+                                                    <div class="col-xs-12">
+                                                        <div class="col-md-12">
+                                                            <legend>Método de pago</legend>
+                                                            
+                                                            <div class="funkyradio">
+                                                                <div class="funkyradio-primary">
+                                                                    <input type="radio" name="radio" id="radio1" checked/>
+                                                                    <label for="radio1">Tarjeta de Crédito</label>
+                                                                </div>
+                                                                <!-- Credit card form -->
+                                                            <div class="container">
+                                                                <div class="row">
+                                                                    <div class="col-xs-12 col-md-6">
+                                                                        <div class="panel panel-default">
+                                                                            <div class="panel-heading">
+                                                                                <h3 class="panel-title" style="height: 40px;"><img class="pull-right" src="http://i76.imgup.net/accepted_c22e0.png">Payment Details</h3>
+                                                                            </div>
+                                                                            <div class="panel-body">
+                                                                                <form role="form" id="payment-form">
+                                                                                    <div class="row">
+                                                                                        <div class="col-xs-12">
+                                                                                            <div class="form-group">
+                                                                                                <label for="cardNumber">CARD NUMBER</label>
+                                                                                                <div class="input-group">
+                                                                                                    <input type="text" class="form-control" name="cardNumber" placeholder="Valid Card Number" required autofocus data-stripe="number" />
+                                                                                                    <span class="input-group-addon"><i class="fa fa-credit-card"></i></span>
+                                                                                                </div>
+                                                                                            </div>                            
+                                                                                        </div>
+                                                                                    </div>
+                                                                                    <div class="row">
+                                                                                        <div class="col-xs-7 col-md-7">
+                                                                                            <div class="form-group">
+                                                                                                <label for="expMonth">EXPIRATION DATE</label>
+                                                                                                <div class="col-xs-6 col-lg-6 pl-ziro">
+                                                                                                    <input type="text" class="form-control" name="expMonth" placeholder="MM" required data-stripe="exp_month" />
+                                                                                                </div>
+                                                                                                <div class="col-xs-6 col-lg-6 pl-ziro">
+                                                                                                    <input type="text" class="form-control" name="expYear" placeholder="YY" required data-stripe="exp_year" />
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                        <div class="col-xs-5 col-md-5 pull-right">
+                                                                                            <div class="form-group">
+                                                                                                <label for="cvCode">CV CODE</label>
+                                                                                                <input type="password" class="form-control" name="cvCode" placeholder="CV" required data-stripe="cvc" />
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                    <div class="row" style="display:none;">
+                                                                                        <div class="col-xs-12">
+                                                                                            <p class="payment-errors"></p>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </form>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                                <div class="funkyradio-primary">
+                                                                    <input type="radio" name="radio" id="radio2" />
+                                                                    <label for="radio2">PSE</label>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="row setup-content" id="step-3">
+                                                    <div class="col-xs-12">
+                                                        <div class="col-md-12">
+                                                            
+                                                            <button class="btn btn-success btn-lg pull-right" type="submit" href="#" data-toggle="modal" data-target="#t_and_c_m">Terminar</button>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </form>
+                                            </div>
+                                        
+                                    </div>
+                                </div> 
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Modal -->
+        <div class="modal fade" id="t_and_c_m" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+            <div class="modal-dialog modal-lg">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                        <h4 class="modal-title" id="myModalLabel">Compra realizada</h4>
+                    </div>
+                    <div class="modal-body">
+                        <p>Gracias por realizar tu compra.</p>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-primary" data-dismiss="modal" onClick="location.href='../html/comprador_catalogo_camiseta.html'">Finalizar</button>
+                    </div>
+                </div><!-- /.modal-content -->
+            </div><!-- /.modal-dialog -->
+        </div><!-- /.modal -->
+    </div>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script src="../bootstrap/js/bootstrap.min.js"></script>
+    <script src="../js/compras.js"></script>
+
+
+
+
+
+</body>
+
+</html>

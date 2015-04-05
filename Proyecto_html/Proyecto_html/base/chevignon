@@ -1,0 +1,1251 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:vtex="http://www.vtex.com.br/2009/vtex-common" xmlns:vtex.cmc="http://www.vtex.com.br/2009/vtex-commerce" lang="en-us">
+
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# product: http://ogp.me/ns/product#">
+    <meta name="language" content="es-CO">
+    <meta name="country" content="COL">
+    <meta name="currency" content="$">
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+    <meta name="description" content="Pantalón de mujer tiro medio, bota recta. Bolsillos en diagonal en el frente, y cortes con vivos en los costados. Ribetes atrás.">
+    <meta name="Abstract" content="Pantalón 7315005">
+    <meta name="author" content="chevignon">
+    <meta name="copyright" content="chevignon">
+    <meta name="vtex-version" content="1.4.174.645">
+    <meta http-equiv="pragma" content="no-cache">
+    <!--VETX SNIPPET FACEBOOK-->
+    <meta property="og:type" content="og:product">
+    <meta property="og:title" content="Pantalón 7315005">
+    <meta property="og:image" content="http://chevignon.vteximg.com.br/arquivos/ids/198550-366-451/63_7315005_121509_.jpg?v=635628182688900000">
+    <meta property="og:description" content="Pantalón de mujer tiro medio, bota recta. Bolsillos en diagonal en el frente, y cortes con vivos en los costados. Ribetes atrás. Composición Prenda: 96% Algodón, 4% Elastano.">
+    <meta property="og:url" content="http://www.chevignon.com.co/pantalon-7315005/p">
+    <meta property="product:plural_title" content="Pantalón 7315005">
+    <meta property="product:price:amount" content="138900.00">
+    <meta property="product:price:currency" content="COP">
+    <meta property="product:price:amount" content="999987.00">
+    <meta property="product:price:currency" content="COP">
+    <!--VTEX SNIPPET TWITTER-->
+    <meta name="twitter:card" content="product">
+    <meta name="twitter:site" content="@Chevignon_Ch">
+    <meta name="twitter:creator" content="@Chevignon_Ch">
+    <meta name="twitter:title" content="Pantalón 7315005">
+    <meta name="twitter:label1" content="Category">
+    <meta name="twitter:data1" content="Pantalones">
+    <meta name="twitter:label2" content="Price">
+    <meta name="twitter:data2" content="138900.00">
+    <meta name="twitter:domain" content="chevignon.com.br">
+    <meta name="twitter:image" content="http://chevignon.vteximg.com.br/arquivos/ids/198550-366-451/63_7315005_121509_.jpg?v=635628182688900000">
+    <title>Productos Chevignon</title>
+    <script async="true" type="text/javascript" src="http://widget.criteo.com/event?a=18467&amp;v=3.2.0&amp;p0=e%3Dce%26m%3D%26h%3Dmd5&amp;p1=e%3Dexd%26site_type%3Dd&amp;p2=e%3Dvp%26p%3D2002039&amp;p3=e%3Ddis" data-owner="criteo-tag"></script>
+    <script src="http://dnn506yrbagrg.cloudfront.net/pages/scripts/0019/6089.js?396642" async="" type="text/javascript"></script>
+    <script async="" src="http://d2xgf76oeu9pbh.cloudfront.net/ed74dc165a10b86d44fc69e4e90455b0.js" type="text/javascript"></script>
+    <script type="text/javascript" async="" src="http://www.google-analytics.com/analytics.js"></script>
+    <script type="text/javascript" async="" src="//www.googleadservices.com/pagead/conversion_async.js"></script>
+    <script type="text/javascript" async="" src="//www.googleadservices.com/pagead/conversion_async.js"></script>
+    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PBXXDM"></script>
+    <script type="text/javascript" async="" src="//dmx56ht1p4edz.cloudfront.net/rc.js?an=chevignon"></script>
+    <script type="text/javascript" async="" src="//dmx56ht1p4edz.cloudfront.net/rc.js?an=chevignon"></script>
+    <script type="text/javascript" async="" src="http://www.google-analytics.com/plugins/ua/ecommerce.js"></script>
+    <script async="" src="//www.google-analytics.com/analytics.js"></script>
+    <script type="text/javascript" async="" src="//dmx56ht1p4edz.cloudfront.net/rc.js?an=chevignon"></script>
+    <script type="text/javascript" async="" src="//dmx56ht1p4edz.cloudfront.net/rc.js?an=chevignon"></script>
+    <script language="javascript" src="http://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.174.645" type="text/javascript"></script>
+    <script language="javascript" src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js?v=1.4.174.645" type="text/javascript"></script>
+    <script language="javascript" src="http://chevignon.vteximg.com.br/arquivos/js/60ddcefa76864bae914c4dcb668f5769-HeadBottom-1-1.4.174.645.js" type="text/javascript"></script>
+    <script language="javascript" src="http://io.vtex.com.br/front-libs/front-i18n/0.4.1/vtex-i18n.min.js?v=1.4.174.645" type="text/javascript"></script>
+    <script language="javascript" src="http://io.vtex.com.br/front-libs/front-utils/1.0.1/vtex-utils.min.js?v=1.4.174.645" type="text/javascript"></script>
+    <script language="javascript" src="http://io.vtex.com.br/front-libs/dustjs-linkedin/2.3.5/dust-core-2.3.5.min.js?v=1.4.174.645" type="text/javascript"></script>
+    <script language="javascript" src="http://io.vtex.com.br/portal-plugins/2.9.12/js/catalog-sdk.min.js?v=1.4.174.645" type="text/javascript"></script>
+    <script language="javascript" src="http://chevignon.vteximg.com.br/arquivos/js/60ddcefa76864bae914c4dcb668f5769-HeadBottom-2-1.4.174.645.js" type="text/javascript"></script>
+    <script language="javascript" src="http://io.vtex.com.br/portal-ui/1.3.6/scripts/vtex-events-all.min.js?v=1.4.174.645" type="text/javascript"></script>
+    <script language="javascript" src="http://io.vtex.com.br/portal-ui/1.3.6/scripts/vtex-analytics.js?v=1.4.174.645" type="text/javascript"></script>
+    <script language="javascript" src="http://io.vtex.com.br/vtex.js/1.0.0/vtex.min.js?v=1.4.174.645" type="text/javascript"></script>
+    <script language="javascript" src="http://io.vtex.com.br/portal-plugins/2.9.12/js/portal-minicart-with-template.min.js?v=1.4.174.645" type="text/javascript"></script>
+    <script language="javascript" src="http://chevignon.vteximg.com.br/arquivos/js/60ddcefa76864bae914c4dcb668f5769-HeadBottom-3-1.4.174.645.js" type="text/javascript"></script>
+    <script language="javascript" src="http://io.vtex.com.br/portal-plugins/2.9.12/js/portal-sku-selector-with-template.min.js?v=1.4.174.645" type="text/javascript"></script>
+    <script language="javascript" src="http://io.vtex.com.br/portal-plugins/2.9.12/js/portal-price-with-template.min.js?v=1.4.174.645" type="text/javascript"></script>
+    <script language="javascript" src="http://io.vtex.com.br/portal-plugins/2.9.12/js/portal-buy-button.min.js?v=1.4.174.645" type="text/javascript"></script>
+    <script language="javascript" src="http://io.vtex.com.br/portal-plugins/2.9.12/js/portal-notify-me-with-template.min.js?v=1.4.174.645" type="text/javascript"></script>
+    <script language="javascript" src="http://io.vtex.com.br/portal-plugins/2.9.12/js/portal-template-as-modal.min.js?v=1.4.174.645" type="text/javascript"></script>
+    <script language="javascript" src="http://chevignon.vteximg.com.br/arquivos/js/60ddcefa76864bae914c4dcb668f5769-HeadBottom-4-1.4.174.645.js" type="text/javascript"></script>
+    <link href="http://fonts.googleapis.com/css?family=Oswald:400,300" rel="stylesheet" type="text/css">
+    <link href="/arquivos/bootstrap-responsive.min.css?v=635569602350500000" rel="stylesheet" type="text/css">
+    <link href="//netdna.bootstrapcdn.com/font-awesome/3.1.1/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="/arquivos/bootstrap.css?v=635569623665430000" rel="stylesheet" type="text/css">
+    <link href="/arquivos/chestyles.css?v=635629953109230000" rel="stylesheet" type="text/css">
+    <link href="/arquivos/translate.css?v=635592611755300000" rel="stylesheet" type="text/css">
+    <link href="/arquivos/responsiveHeader.css?v=635568407847700000" rel="stylesheet" type="text/css">
+    <link href="/arquivos/flags_chevignon.css?v=635628967504000000" rel="stylesheet" type="text/css">
+    <script src="/arquivos/bootstrap.min.js?v=635126986847270000"></script>
+    <link rel="shortcut icon" href="/arquivos/favicon.ico?v=635524808026770000">
+    <script src="/arquivos/pace.min.js?v=635180795227600000"></script>
+    <script src="/arquivos/jquery.bxslider.js?v=635527197672900000"></script>
+    <script src="/arquivos/custom_che_roi.js?v=635562416623530000"></script>
+    <script src="/arquivos/responsiveHeader.js?v=635537445904400000"></script>
+    <iframe src="javascript:false" title="" allowtransparency="true" style="display: none;"></iframe>
+    <script>
+        /*<![CDATA[*/window.zEmbed||function(e,t){var n,o,d,i,s,a=[],r=document.createElement("iframe");window.zEmbed=function(){a.push(arguments)},window.zE=window.zE||window.zEmbed,r.src="javascript:false",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="display: none",d=document.getElementsByTagName("script"),d=d[d.length-1],d.parentNode.insertBefore(r,d),i=r.contentWindow,s=i.document;try{o=s}catch(c){n=document.domain,r.src='javascript:var d=document.open();d.domain="'+n+'";void(0);',o=s}o.open()._l=function(){var o=this.createElement("script");n&&(this.domain=n),o.id="js-iframe-async",o.src=e,this.t=+new Date,this.zendeskHost=t,this.zEQueue=a,this.body.appendChild(o)},o.write('<body onload="document._l();">'),o.close()}("//assets.zendesk.com/embeddable_framework/main.js","tiendaonline.zendesk.com");/*]]>*/
+    </script>
+    <script language="javascript">
+        window.onload = function() {
+                zE(function() 
+                {
+                    zE.hide();
+                });
+        }
+    </script>
+    <script src="/arquivos/lojavazia-general.js?v=635180795235330000"></script>
+    <script type="text/javascript">
+        function tab(tab) {
+        document.getElementById('tab1').style.display = 'none';
+        document.getElementById('tab2').style.display = 'none';
+        document.getElementById('li_tab1').setAttribute("class", "");
+        document.getElementById('li_tab2').setAttribute("class", "");
+        document.getElementById(tab).style.display = 'block';
+        document.getElementById('li_'+tab).setAttribute("class", "active");
+        }
+    </script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="canonical" href="http://www.chevignon.com.co/pantalon-7315005/p">
+    <script>
+        var skuJson_0 = {"productId":2002039,"name":"Pantalón 7315005","salesChannel":"1","available":true,"displayMode":"especificacao","dimensions":["Talla","Color"],"dimensionsInputType":{"Talla":"Radio","Color":"Radio"},"dimensionsMap":{"Talla":["5","6","8","10","12"],"Color":["63_7315005_121509","63_7315005_121109","63_7315005_051209","63_7315005_141700","63_7315005_021209","63_7315005_011409"]},"skus":[{"sku":2019063,"skuname":"Rosa 8","dimensions":{"Talla":"8","Color":"63_7315005_121509"},"available":true,"listPriceFormated":"$0,00","listPrice":0,"bestPriceFormated":"$138.900,00","bestPrice":13890000,"installments":12,"installmentsValue":1157500,"installmentsInsterestRate":0,"image":"http://chevignon.vteximg.com.br/arquivos/ids/198550-366-451/63_7315005_121509_.jpg?v=635628182688900000","sellerId":"1","seller":"Chevignon","measures":{"cubicweight":500.0000,"height":1.0000,"length":1.0000,"weight":500.0000,"width":1.0000},"unitMultiplier":1.0000,"rewardValue":0},{"sku":2019064,"skuname":"Rosa 8","dimensions":{"Talla":"8","Color":"63_7315005_121109"},"available":true,"listPriceFormated":"$0,00","listPrice":0,"bestPriceFormated":"$138.900,00","bestPrice":13890000,"installments":12,"installmentsValue":1157500,"installmentsInsterestRate":0,"image":"http://chevignon.vteximg.com.br/arquivos/ids/198552-366-451/63_7315005_121109_.jpg?v=635628182795330000","sellerId":"1","seller":"Chevignon","measures":{"cubicweight":500.0000,"height":1.0000,"length":1.0000,"weight":500.0000,"width":1.0000},"unitMultiplier":1.0000,"rewardValue":0},{"sku":2019065,"skuname":"Gris 8","dimensions":{"Talla":"8","Color":"63_7315005_051209"},"available":true,"listPriceFormated":"$0,00","listPrice":0,"bestPriceFormated":"$138.900,00","bestPrice":13890000,"installments":12,"installmentsValue":1157500,"installmentsInsterestRate":0,"image":"http://chevignon.vteximg.com.br/arquivos/ids/198554-366-451/63_7315005_051209_.jpg?v=635628182892000000","sellerId":"1","seller":"Chevignon","measures":{"cubicweight":500.0000,"height":1.0000,"length":1.0000,"weight":500.0000,"width":1.0000},"unitMultiplier":1.0000,"rewardValue":0},{"sku":2019066,"skuname":"Crudo 8","dimensions":{"Talla":"8","Color":"63_7315005_141700"},"available":true,"listPriceFormated":"$0,00","listPrice":0,"bestPriceFormated":"$138.900,00","bestPrice":13890000,"installments":12,"installmentsValue":1157500,"installmentsInsterestRate":0,"image":"http://chevignon.vteximg.com.br/arquivos/ids/198556-366-451/63_7315005_141700_.jpg?v=635628182997000000","sellerId":"1","seller":"Chevignon","measures":{"cubicweight":500.0000,"height":1.0000,"length":1.0000,"weight":500.0000,"width":1.0000},"unitMultiplier":1.0000,"rewardValue":0},{"sku":2019067,"skuname":"Azul 8","dimensions":{"Talla":"8","Color":"63_7315005_021209"},"available":true,"listPriceFormated":"$0,00","listPrice":0,"bestPriceFormated":"$138.900,00","bestPrice":13890000,"installments":12,"installmentsValue":1157500,"installmentsInsterestRate":0,"image":"http://chevignon.vteximg.com.br/arquivos/ids/198558-366-451/63_7315005_021209_.jpg?v=635628183104300000","sellerId":"1","seller":"Chevignon","measures":{"cubicweight":500.0000,"height":1.0000,"length":1.0000,"weight":500.0000,"width":1.0000},"unitMultiplier":1.0000,"rewardValue":0},{"sku":2019068,"skuname":"Amarillo 8","dimensions":{"Talla":"8","Color":"63_7315005_011409"},"available":true,"listPriceFormated":"$0,00","listPrice":0,"bestPriceFormated":"$138.900,00","bestPrice":13890000,"installments":12,"installmentsValue":1157500,"installmentsInsterestRate":0,"image":"http://chevignon.vteximg.com.br/arquivos/ids/198560-366-451/63_7315005_011409_.jpg?v=635628183217100000","sellerId":"1","seller":"Chevignon","measures":{"cubicweight":500.0000,"height":1.0000,"length":1.0000,"weight":500.0000,"width":1.0000},"unitMultiplier":1.0000,"rewardValue":0},{"sku":2019069,"skuname":"Rosa 6","dimensions":{"Talla":"6","Color":"63_7315005_121509"},"available":true,"listPriceFormated":"$0,00","listPrice":0,"bestPriceFormated":"$138.900,00","bestPrice":13890000,"installments":12,"installmentsValue":1157500,"installmentsInsterestRate":0,"image":"http://chevignon.vteximg.com.br/arquivos/ids/198562-366-451/63_7315005_121509_.jpg?v=635628183323370000","sellerId":"1","seller":"Chevignon","measures":{"cubicweight":500.0000,"height":1.0000,"length":1.0000,"weight":500.0000,"width":1.0000},"unitMultiplier":1.0000,"rewardValue":0},{"sku":2019070,"skuname":"Rosa 6","dimensions":{"Talla":"6","Color":"63_7315005_121109"},"available":false,"listPriceFormated":"$0,00","listPrice":0,"bestPriceFormated":"$999.987,00","bestPrice":99998700,"installments":12,"installmentsValue":8333225,"installmentsInsterestRate":0,"image":"http://chevignon.vteximg.com.br/arquivos/ids/198564-366-451/63_7315005_121109_.jpg?v=635628183427530000","sellerId":"1","seller":"Chevignon","measures":{"cubicweight":500.0000,"height":1.0000,"length":1.0000,"weight":500.0000,"width":1.0000},"unitMultiplier":1.0000,"rewardValue":0},{"sku":2019071,"skuname":"Gris 6","dimensions":{"Talla":"6","Color":"63_7315005_051209"},"available":true,"listPriceFormated":"$0,00","listPrice":0,"bestPriceFormated":"$138.900,00","bestPrice":13890000,"installments":12,"installmentsValue":1157500,"installmentsInsterestRate":0,"image":"http://chevignon.vteximg.com.br/arquivos/ids/198566-366-451/63_7315005_051209_.jpg?v=635628183529900000","sellerId":"1","seller":"Chevignon","measures":{"cubicweight":500.0000,"height":1.0000,"length":1.0000,"weight":500.0000,"width":1.0000},"unitMultiplier":1.0000,"rewardValue":0},{"sku":2019072,"skuname":"Crudo 6","dimensions":{"Talla":"6","Color":"63_7315005_141700"},"available":true,"listPriceFormated":"$0,00","listPrice":0,"bestPriceFormated":"$138.900,00","bestPrice":13890000,"installments":12,"installmentsValue":1157500,"installmentsInsterestRate":0,"image":"http://chevignon.vteximg.com.br/arquivos/ids/198568-366-451/63_7315005_141700_.jpg?v=635628183623800000","sellerId":"1","seller":"Chevignon","measures":{"cubicweight":500.0000,"height":1.0000,"length":1.0000,"weight":500.0000,"width":1.0000},"unitMultiplier":1.0000,"rewardValue":0},{"sku":2019073,"skuname":"Azul 6","dimensions":{"Talla":"6","Color":"63_7315005_021209"},"available":true,"listPriceFormated":"$0,00","listPrice":0,"bestPriceFormated":"$138.900,00","bestPrice":13890000,"installments":12,"installmentsValue":1157500,"installmentsInsterestRate":0,"image":"http://chevignon.vteximg.com.br/arquivos/ids/198570-366-451/63_7315005_021209_.jpg?v=635628183714770000","sellerId":"1","seller":"Chevignon","measures":{"cubicweight":500.0000,"height":1.0000,"length":1.0000,"weight":500.0000,"width":1.0000},"unitMultiplier":1.0000,"rewardValue":0},{"sku":2019074,"skuname":"Amarillo 6","dimensions":{"Talla":"6","Color":"63_7315005_011409"},"available":true,"listPriceFormated":"$0,00","listPrice":0,"bestPriceFormated":"$138.900,00","bestPrice":13890000,"installments":12,"installmentsValue":1157500,"installmentsInsterestRate":0,"image":"http://chevignon.vteximg.com.br/arquivos/ids/198572-366-451/63_7315005_011409_.jpg?v=635628183818830000","sellerId":"1","seller":"Chevignon","measures":{"cubicweight":500.0000,"height":1.0000,"length":1.0000,"weight":500.0000,"width":1.0000},"unitMultiplier":1.0000,"rewardValue":0},{"sku":2019075,"skuname":"Rosa 5","dimensions":{"Talla":"5","Color":"63_7315005_121509"},"available":false,"listPriceFormated":"$0,00","listPrice":0,"bestPriceFormated":"$999.987,00","bestPrice":99998700,"installments":12,"installmentsValue":8333225,"installmentsInsterestRate":0,"image":"http://chevignon.vteximg.com.br/arquivos/ids/198574-366-451/63_7315005_121509_.jpg?v=635628183934170000","sellerId":"1","seller":"Chevignon","measures":{"cubicweight":500.0000,"height":1.0000,"length":1.0000,"weight":500.0000,"width":1.0000},"unitMultiplier":1.0000,"rewardValue":0},{"sku":2019076,"skuname":"Rosa 5","dimensions":{"Talla":"5","Color":"63_7315005_121109"},"available":false,"listPriceFormated":"$0,00","listPrice":0,"bestPriceFormated":"$999.987,00","bestPrice":99998700,"installments":12,"installmentsValue":8333225,"installmentsInsterestRate":0,"image":"http://chevignon.vteximg.com.br/arquivos/ids/198576-366-451/63_7315005_121109_.jpg?v=635628184032470000","sellerId":"1","seller":"Chevignon","measures":{"cubicweight":500.0000,"height":1.0000,"length":1.0000,"weight":500.0000,"width":1.0000},"unitMultiplier":1.0000,"rewardValue":0},{"sku":2019077,"skuname":"Gris 5","dimensions":{"Talla":"5","Color":"63_7315005_051209"},"available":false,"listPriceFormated":"$0,00","listPrice":0,"bestPriceFormated":"$999.987,00","bestPrice":99998700,"installments":12,"installmentsValue":8333225,"installmentsInsterestRate":0,"image":"http://chevignon.vteximg.com.br/arquivos/ids/198578-366-451/63_7315005_051209_.jpg?v=635628184135500000","sellerId":"1","seller":"Chevignon","measures":{"cubicweight":500.0000,"height":1.0000,"length":1.0000,"weight":500.0000,"width":1.0000},"unitMultiplier":1.0000,"rewardValue":0},{"sku":2019078,"skuname":"Crudo 5","dimensions":{"Talla":"5","Color":"63_7315005_141700"},"available":false,"listPriceFormated":"$0,00","listPrice":0,"bestPriceFormated":"$999.987,00","bestPrice":99998700,"installments":12,"installmentsValue":8333225,"installmentsInsterestRate":0,"image":"http://chevignon.vteximg.com.br/arquivos/ids/198580-366-451/63_7315005_141700_.jpg?v=635628184239800000","sellerId":"1","seller":"Chevignon","measures":{"cubicweight":500.0000,"height":1.0000,"length":1.0000,"weight":500.0000,"width":1.0000},"unitMultiplier":1.0000,"rewardValue":0},{"sku":2019079,"skuname":"Azul 5","dimensions":{"Talla":"5","Color":"63_7315005_021209"},"available":false,"listPriceFormated":"$0,00","listPrice":0,"bestPriceFormated":"$999.987,00","bestPrice":99998700,"installments":12,"installmentsValue":8333225,"installmentsInsterestRate":0,"image":"http://chevignon.vteximg.com.br/arquivos/ids/198582-366-451/63_7315005_021209_.jpg?v=635628184347170000","sellerId":"1","seller":"Chevignon","measures":{"cubicweight":500.0000,"height":1.0000,"length":1.0000,"weight":500.0000,"width":1.0000},"unitMultiplier":1.0000,"rewardValue":0},{"sku":2019080,"skuname":"Amarillo 5","dimensions":{"Talla":"5","Color":"63_7315005_011409"},"available":false,"listPriceFormated":"$0,00","listPrice":0,"bestPriceFormated":"$999.987,00","bestPrice":99998700,"installments":12,"installmentsValue":8333225,"installmentsInsterestRate":0,"image":"http://chevignon.vteximg.com.br/arquivos/ids/198584-366-451/63_7315005_011409_.jpg?v=635628184445470000","sellerId":"1","seller":"Chevignon","measures":{"cubicweight":500.0000,"height":1.0000,"length":1.0000,"weight":500.0000,"width":1.0000},"unitMultiplier":1.0000,"rewardValue":0},{"sku":2019081,"skuname":"Rosa 12","dimensions":{"Talla":"12","Color":"63_7315005_121509"},"available":true,"listPriceFormated":"$0,00","listPrice":0,"bestPriceFormated":"$138.900,00","bestPrice":13890000,"installments":12,"installmentsValue":1157500,"installmentsInsterestRate":0,"image":"http://chevignon.vteximg.com.br/arquivos/ids/198586-366-451/63_7315005_121509_.jpg?v=635628184549030000","sellerId":"1","seller":"Chevignon","measures":{"cubicweight":500.0000,"height":1.0000,"length":1.0000,"weight":500.0000,"width":1.0000},"unitMultiplier":1.0000,"rewardValue":0},{"sku":2019082,"skuname":"Rosa 12","dimensions":{"Talla":"12","Color":"63_7315005_121109"},"available":true,"listPriceFormated":"$0,00","listPrice":0,"bestPriceFormated":"$138.900,00","bestPrice":13890000,"installments":12,"installmentsValue":1157500,"installmentsInsterestRate":0,"image":"http://chevignon.vteximg.com.br/arquivos/ids/198588-366-451/63_7315005_121109_.jpg?v=635628184671900000","sellerId":"1","seller":"Chevignon","measures":{"cubicweight":500.0000,"height":1.0000,"length":1.0000,"weight":500.0000,"width":1.0000},"unitMultiplier":1.0000,"rewardValue":0},{"sku":2019083,"skuname":"Gris 12","dimensions":{"Talla":"12","Color":"63_7315005_051209"},"available":true,"listPriceFormated":"$0,00","listPrice":0,"bestPriceFormated":"$138.900,00","bestPrice":13890000,"installments":12,"installmentsValue":1157500,"installmentsInsterestRate":0,"image":"http://chevignon.vteximg.com.br/arquivos/ids/198590-366-451/63_7315005_051209_.jpg?v=635628184770370000","sellerId":"1","seller":"Chevignon","measures":{"cubicweight":500.0000,"height":1.0000,"length":1.0000,"weight":500.0000,"width":1.0000},"unitMultiplier":1.0000,"rewardValue":0},{"sku":2019084,"skuname":"Crudo 12","dimensions":{"Talla":"12","Color":"63_7315005_141700"},"available":true,"listPriceFormated":"$0,00","listPrice":0,"bestPriceFormated":"$138.900,00","bestPrice":13890000,"installments":12,"installmentsValue":1157500,"installmentsInsterestRate":0,"image":"http://chevignon.vteximg.com.br/arquivos/ids/198592-366-451/63_7315005_141700_.jpg?v=635628184908600000","sellerId":"1","seller":"Chevignon","measures":{"cubicweight":500.0000,"height":1.0000,"length":1.0000,"weight":500.0000,"width":1.0000},"unitMultiplier":1.0000,"rewardValue":0},{"sku":2019085,"skuname":"Azul 12","dimensions":{"Talla":"12","Color":"63_7315005_021209"},"available":true,"listPriceFormated":"$0,00","listPrice":0,"bestPriceFormated":"$138.900,00","bestPrice":13890000,"installments":12,"installmentsValue":1157500,"installmentsInsterestRate":0,"image":"http://chevignon.vteximg.com.br/arquivos/ids/198594-366-451/63_7315005_021209_.jpg?v=635628185006130000","sellerId":"1","seller":"Chevignon","measures":{"cubicweight":500.0000,"height":1.0000,"length":1.0000,"weight":500.0000,"width":1.0000},"unitMultiplier":1.0000,"rewardValue":0},{"sku":2019086,"skuname":"Amarillo 12","dimensions":{"Talla":"12","Color":"63_7315005_011409"},"available":true,"listPriceFormated":"$0,00","listPrice":0,"bestPriceFormated":"$138.900,00","bestPrice":13890000,"installments":12,"installmentsValue":1157500,"installmentsInsterestRate":0,"image":"http://chevignon.vteximg.com.br/arquivos/ids/198596-366-451/63_7315005_011409_.jpg?v=635628185114570000","sellerId":"1","seller":"Chevignon","measures":{"cubicweight":500.0000,"height":1.0000,"length":1.0000,"weight":500.0000,"width":1.0000},"unitMultiplier":1.0000,"rewardValue":0},{"sku":2019087,"skuname":"Rosa 10","dimensions":{"Talla":"10","Color":"63_7315005_121509"},"available":true,"listPriceFormated":"$0,00","listPrice":0,"bestPriceFormated":"$138.900,00","bestPrice":13890000,"installments":12,"installmentsValue":1157500,"installmentsInsterestRate":0,"image":"http://chevignon.vteximg.com.br/arquivos/ids/198598-366-451/63_7315005_121509_.jpg?v=635628185216600000","sellerId":"1","seller":"Chevignon","measures":{"cubicweight":500.0000,"height":1.0000,"length":1.0000,"weight":500.0000,"width":1.0000},"unitMultiplier":1.0000,"rewardValue":0},{"sku":2019088,"skuname":"Rosa 10","dimensions":{"Talla":"10","Color":"63_7315005_121109"},"available":true,"listPriceFormated":"$0,00","listPrice":0,"bestPriceFormated":"$138.900,00","bestPrice":13890000,"installments":12,"installmentsValue":1157500,"installmentsInsterestRate":0,"image":"http://chevignon.vteximg.com.br/arquivos/ids/198600-366-451/63_7315005_121109_.jpg?v=635628185313900000","sellerId":"1","seller":"Chevignon","measures":{"cubicweight":500.0000,"height":1.0000,"length":1.0000,"weight":500.0000,"width":1.0000},"unitMultiplier":1.0000,"rewardValue":0},{"sku":2019089,"skuname":"Gris 10","dimensions":{"Talla":"10","Color":"63_7315005_051209"},"available":true,"listPriceFormated":"$0,00","listPrice":0,"bestPriceFormated":"$138.900,00","bestPrice":13890000,"installments":12,"installmentsValue":1157500,"installmentsInsterestRate":0,"image":"http://chevignon.vteximg.com.br/arquivos/ids/198602-366-451/63_7315005_051209_.jpg?v=635628185410930000","sellerId":"1","seller":"Chevignon","measures":{"cubicweight":500.0000,"height":1.0000,"length":1.0000,"weight":500.0000,"width":1.0000},"unitMultiplier":1.0000,"rewardValue":0},{"sku":2019090,"skuname":"Crudo 10","dimensions":{"Talla":"10","Color":"63_7315005_141700"},"available":true,"listPriceFormated":"$0,00","listPrice":0,"bestPriceFormated":"$138.900,00","bestPrice":13890000,"installments":12,"installmentsValue":1157500,"installmentsInsterestRate":0,"image":"http://chevignon.vteximg.com.br/arquivos/ids/198604-366-451/63_7315005_141700_.jpg?v=635628185513430000","sellerId":"1","seller":"Chevignon","measures":{"cubicweight":500.0000,"height":1.0000,"length":1.0000,"weight":500.0000,"width":1.0000},"unitMultiplier":1.0000,"rewardValue":0},{"sku":2019091,"skuname":"Azul 10","dimensions":{"Talla":"10","Color":"63_7315005_021209"},"available":true,"listPriceFormated":"$0,00","listPrice":0,"bestPriceFormated":"$138.900,00","bestPrice":13890000,"installments":12,"installmentsValue":1157500,"installmentsInsterestRate":0,"image":"http://chevignon.vteximg.com.br/arquivos/ids/198606-366-451/63_7315005_021209_.jpg?v=635628185621970000","sellerId":"1","seller":"Chevignon","measures":{"cubicweight":500.0000,"height":1.0000,"length":1.0000,"weight":500.0000,"width":1.0000},"unitMultiplier":1.0000,"rewardValue":0},{"sku":2019092,"skuname":"Amarillo 10","dimensions":{"Talla":"10","Color":"63_7315005_011409"},"available":true,"listPriceFormated":"$0,00","listPrice":0,"bestPriceFormated":"$138.900,00","bestPrice":13890000,"installments":12,"installmentsValue":1157500,"installmentsInsterestRate":0,"image":"http://chevignon.vteximg.com.br/arquivos/ids/198608-366-451/63_7315005_011409_.jpg?v=635628185825500000","sellerId":"1","seller":"Chevignon","measures":{"cubicweight":500.0000,"height":1.0000,"length":1.0000,"weight":500.0000,"width":1.0000},"unitMultiplier":1.0000,"rewardValue":0}]};CATALOG_SDK.setProductWithVariationsCache(skuJson_0.productId, skuJson_0); var skuJson = skuJson_0;
+    </script>
+</head>
+
+<body class="produto  pace-done">
+    <div id="ajaxBusy" class="load loading" style="display: none;">
+        <p>Aguarde...</p>
+    </div>
+    <div class="pace  pace-inactive">
+        <div class="pace-progress" data-progress-text="100%" data-progress="99" style="width: 100%;">
+            <div class="pace-progress-inner"></div>
+        </div>
+        <div class="pace-activity"></div>
+    </div>
+    <!-- Start - WebAnalyticsViewPart -->
+
+    <!-- CommerceContext.Current.VirtualFolder.Name: @Produto@ -->
+
+    <script>
+        vtex.events.addData({"pageCategory":"Product","pageUrl":"http://www.chevignon.com.co/pantalon-7315005/p?pgedit=1","pageTitle":"Productos Chevignon","skuStockOutFromShelf":["2019070","2019075","2019076","2019077","2019078","2019079","2019080"],"skuStockOutFromProductDetail":["2019070","2019075","2019076","2019077","2019078","2019079","2019080"],"shelfProductIds":["2002039"],"productId":"2002039","productReferenceId":"63_7315005","productEans":["1111119968576","1111119968538","1111119968491","1111119987782","1111119968453","1111119968415","1111119968088","1111119968040","1111119968002","1111119968378","1111119956870","1111119956856","1111119956818","1111119953879","1111119953831","1111119956832","1111119953794","1111119953756","1111119953671","1111119952827","1111119952780","1111119953718","1111119952766","1111119952728","1111119952667","1111119952643","1111119952605","1111119952704","1111119952582","1111119952544"],"skuStocks":{"2019063":1,"2019064":1,"2019065":1,"2019066":1,"2019067":1,"2019068":1,"2019069":1,"2019070":0,"2019071":1,"2019072":1,"2019073":1,"2019074":1,"2019075":0,"2019076":0,"2019077":0,"2019078":0,"2019079":0,"2019080":0,"2019081":1,"2019082":1,"2019083":1,"2019084":1,"2019085":1,"2019086":1,"2019087":1,"2019088":1,"2019089":1,"2019090":1,"2019091":1,"2019092":1},"productName":"Pantalón 7315005","productBrandId":2000000,"productBrandName":"Chevignon","productDepartmentId":27,"productDepartmentName":"Ropa Mujer","productCategoryId":34,"productCategoryName":"Pantalones","productListPriceFrom":"138900","productListPriceTo":"138900","productPriceFrom":"138900","productPriceTo":"138900"});
+    </script>
+
+    <script>
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                                    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                                    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                                    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                                    })(window,document,'script','dataLayer','GTM-PBXXDM');
+    </script>
+
+    <script>
+        var helper = new vtexTagManagerHelper('productView'); helper.init();
+    </script>
+
+    <!-- End - WebAnalyticsViewPart -->
+    <div class="ajax-content-loader" rel="/no-cache/callcenter/disclaimer">
+        <!-- CallCenter -->
+    </div>
+    <div id="productAdded" style="top: -95px; display: none;">
+        <p>PRODUCTO AGREGADO CON ÉXITO</p>
+        <div class="alert-call-to-action"><a class="go-to-checkout" href="/checkout/">Ir al carrito</a><a class="continue-shoping">Continuar Comprando</a>
+        </div>
+        <p></p>
+    </div>
+    <!--  SubTemplate: Header -->
+    <div class="header-container">
+        <div class="header-top">
+            <div class="store-country">
+                <img src="/arquivos/bandera_CO.jpg?v=635326536003700000" alt="Sitio Seguro" height="13" width="19"><span>CHEVIGNON COLOMBIA</span>
+            </div>
+        </div>
+        <div class="header-content-center">
+            <div class="header-panel">
+                <div class="links">
+                    <div id="sliderLogin" class="slider_toggle">
+                        Ingresa
+                        <div id="sliderLoginContainer" class="slider panelslider">
+                            <ul>
+                                <!--<li><a class="login-link" href="/account" title="Inicia Sesión">Mi cuenta</a></li>-->
+                                <li><a class="orders-link" href="/account/orders" title="Regístrate">Mis pedidos</a>
+                                </li>
+                                <li><a class="logout-link" href="/logout" title="logout">Salir</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="header">
+                <div class="branding">
+                    <h1 class="logo"><strong>Chevignon</strong><a href="/" title="Chevignon" class="logo"><img src="/arquivos/logo.png?v=635524655621430000" alt="Chevignon"></a></h1>
+                </div>
+            </div>
+            <div class="mini-car">
+                <div class="cart-info">
+                    <a href="/checkout">
+                        <div class="portal-totalizers-ref">
+                            <div class="amount-items-in-cart">
+                                <div class="cartInfoWrapper"><span class="title"><span id="MostraTextoXml1">Resumo do Carrinho</span></span>
+                                    <ul class="cart-info">
+                                        <li class="amount-products"><strong><span id="MostraTextoXml2">Total de Produtos:</span></strong>  <em class="amount-products-em">0</em>
+                                        </li>
+                                        <li class="amount-items"><strong><span id="MostraTextoXml3">Itens:</span></strong>  <em class="amount-items-em">0</em>
+                                        </li>
+                                        <li class="amount-kits"><strong><span id="MostraTextoXml4">Total de Kits:</span></strong>  <em class="amount-kits-em"></em>
+                                        </li>
+                                        <li class="total-cart"><strong><span id="MostraTextoXml5">Valor Total:</span></strong>  <em class="total-cart-em">$ 0,00</em>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <script>
+                            $('.portal-totalizers-ref').minicart({ showMinicart: false, showTotalizers: true, showShippingOptions: false });
+                        </script>
+                    </a>
+                </div>
+                <div class="cart-prev">
+                    <a href="/checkout">
+                        <div class="portal-minicart-ref">
+                            <div class="v2-vtexsc-cart vtexsc-cart mouseActivated preLoaded">
+                                <div class="vtexsc-bt"></div>
+                                <div class="vtexsc-center">
+                                    <div class="vtexsc-wrap">
+                                        <table class="vtexsc-productList">
+                                            <thead>
+                                                <tr>
+                                                    <th class="cartSkuName" colspan="2">Produto</th>
+                                                    <th class="cartSkuPrice">Preço</th>
+                                                    <th class="cartSkuQuantity">Quantidade</th>
+                                                    <th class="cartSkuActions">Excluir</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody></tbody>
+                                        </table>
+                                    </div>
+                                    <div class="cartFooter clearfix">
+                                        <div class="cartTotal">Total<span class="vtexsc-totalCart"><span class="vtexsc-text">$ 0,00</span></span>
+                                        </div>
+                                        <a href="/checkout/#/orderform" class="cartCheckout"></a>
+                                    </div>
+                                </div>
+                                <div class="vtexsc-bb"></div>
+                            </div>
+                        </div>
+                        <script>
+                            $('.portal-minicart-ref').minicart({ showMinicart: true, showTotalizers: false  , showShippingOptions: false });
+                        </script>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- /SubTemplate: Header -->
+    <!--  SubTemplate: Navigation -->
+    <div class="principal-navigation menu-chevignon">
+        <div class="nav-container">
+            <div class="branding" style="display:none;">
+                <h1 class="logo"><strong>Chevignon</strong><a href="/" title="Chevignon" class="logo"><img src="/arquivos/logo.png?v=635524655621430000" alt="Chevignon"></a></h1>
+            </div>
+            <ul id="navigation">
+                <li class="menu-first-level men"><a><span>Colección</span></a>
+                    <ul class="menu-second-level">
+                        <li class="menu-third-level"><a href="/ropa-hombre"><span>Hombre</span></a>
+                            <ul class="sub-menu-principal">
+                                <li><a href="/ropa-hombre/chaquetas?PS=48&amp;O=OrderByReleaseDateDESC">Chaquetas</a>
+                                </li>
+                                <li><a href="/ropa-hombre/camisas?PS=48&amp;O=OrderByReleaseDateDESC">Camisas</a>
+                                </li>
+                                <li><a href="/ropa-hombre/camisetas?PS=48&amp;O=OrderByReleaseDateDESC">Camisetas</a>
+                                </li>
+                                <!--<li><a href="/ropa-hombre/polos?PS=48&amp;O=OrderByReleaseDateDESC">Polos</a></li>-->
+                                <li><a href="/ropa-hombre/busos?PS=48&amp;O=OrderByReleaseDateDESC">Busos</a>
+                                </li>
+                                <!--<li><a href="/ropa-hombre/tejidos?PS=48&amp;O=OrderByReleaseDateDESC">Tejidos</a></li>-->
+                                <li><a href="/ropa-hombre/pantalones?PS=48&amp;O=OrderByReleaseDateDESC">Pantalones</a>
+                                </li>
+                                <li><a href="/ropa-hombre/bermudas?PS=48&amp;O=OrderByReleaseDateDESC">Bermudas</a>
+                                </li>
+                                <li><a href="/ropa-hombre/denim-hombre?PS=48&amp;O=OrderByReleaseDateDESC">Denim</a>
+                                    <!--	<ul class="sub-menu-secundario">
+	            					<li><a href="/ropa-hombre/denim-hombre/revenge?PS=48&amp;O=OrderByReleaseDateDESC">Revenge</a></li>
+	            					<li><a href="/ropa-hombre/denim-hombre/morrison?PS=48&amp;O=OrderByReleaseDateDESC">Morrison</a></li>
+	            					<li><a href="/ropa-hombre/denim-hombre/tendencias?PS=48&amp;O=OrderByReleaseDateDESC">Tendencias</a></li>
+	            					<li><a href="/ropa-hombre/denim-hombre/hornet?PS=48&amp;O=OrderByReleaseDateDESC">Hornet</a></li>
+	            					<li><a href="/ropa-hombre/denim-hombre/rider?PS=48&amp;O=OrderByReleaseDateDESC">Rider</a></li>
+	            					<li><a href="/ropa-hombre/denim-hombre/famous?PS=48&amp;O=OrderByReleaseDateDESC">Famous</a></li>
+	            					<li><a href="/ropa-hombre/denim-hombre/crook?PS=48&amp;O=OrderByReleaseDateDESC">Crook</a></li>
+	            					<li><a href="/ropa-hombre/denim-hombre/hendrix?PS=48&amp;O=OrderByReleaseDateDESC">Hendrix</a></li>
+	            					<li><a href="/ropa-hombre/denim-hombre/mas-denim?PS=12&amp;O=OrderByReleaseDateDESC">Ver todo</a></li>
+	            				</ul>-->
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="menu-third-level"><a href="/ropa-mujer"><span>Mujer</span></a>
+                            <ul class="sub-menu-principal">
+                                <li><a href="/ropa-mujer/chaquetas?PS=48&amp;O=OrderByReleaseDateDESC">Chaquetas</a>
+                                </li>
+                                <li><a href="/ropa-mujer/camisas?PS=48&amp;O=OrderByReleaseDateDESC">Camisas</a>
+                                </li>
+                                <li><a href="/ropa-mujer/camisetas?PS=48&amp;O=OrderByReleaseDateDESC">Camisetas</a>
+                                </li>
+                                <li><a href="/ropa-mujer/busos?PS=48&amp;O=OrderByReleaseDateDESC">Busos</a>
+                                </li>
+                                <li><a href="/ropa-mujer/tejidos?PS=48&amp;O=OrderByReleaseDateDESC">Tejidos</a>
+                                </li>
+                                <li><a href="/ropa-mujer/vestidos?PS=48&amp;O=OrderByReleaseDateDESC">Vestidos</a>
+                                </li>
+                                <li><a href="/ropa-mujer/pantalones?PS=48&amp;O=OrderByReleaseDateDESC">Pantalones</a>
+                                </li>
+                                <li><a href="/ropa-mujer/shorts?PS=48&amp;O=OrderByReleaseDateDESC">Shorts</a>
+                                </li>
+                                <li><a href="/ropa-mujer/faldas?PS=48&amp;O=OrderByReleaseDateDESC">Faldas</a>
+                                </li>
+                                <li><a href="/ropa-mujer/denim-mujer?PS=48&amp;O=OrderByReleaseDateDESC">Denim</a>
+                                    <!--<ul class="sub-menu-secundario">
+	            					<li><a href="/ropa-mujer/denim-mujer/biker?PS=48&amp;O=OrderByReleaseDateDESC">Biker</a></li>
+	            					<li><a href="/ropa-mujer/denim-mujer/rusty?PS=48&amp;O=OrderByReleaseDateDESC">Rusty</a></li>
+	            					<li><a href="/ropa-mujer/denim-mujer/gold?PS=48&amp;O=OrderByReleaseDateDESC">Gold</a></li>
+	            					<li><a href="/ropa-mujer/denim-mujer/crystal?PS=48&amp;O=OrderByReleaseDateDESC">Crystal</a></li>
+	            					<li><a href="/ropa-mujer/denim-mujer/harem?PS=48&amp;O=OrderByReleaseDateDESC">Harem</a></li>
+	            					<li><a href="/ropa-mujer/denim-mujer/boyfit?PS=48&amp;O=OrderByReleaseDateDESC">Boyfit</a></li>
+	            					<li><a href="/ropa-mujer/denim-mujer/tendencias?PS=48&amp;O=OrderByReleaseDateDESC">Tendencias</a></li>
+	            					<li><a href="/ropa-mujer/denim-mujer/wide-leg?PS=48&amp;O=OrderByReleaseDateDESC">Wide leg</a></li>
+	            					<li><a href="/ropa-mujer/denim-mujer/mas-denim?PS=12&amp;O=OrderByReleaseDateDESC">Ver todo</a></li>
+	            				</ul>-->
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+                <li class="menu-first-level woman"><a><span>Denim</span></a>
+                    <ul class="menu-second-level">
+                        <li class="menu-third-level"><a href="/ropa-hombre/denim-hombre"><span>Hombre</span></a>
+                            <!--<ul class="sub-menu-principal">
+	            			<li><a href="/ropa-hombre/denim-hombre/revenge?PS=48&amp;O=OrderByReleaseDateDESC">Revenge</a></li>
+	            			<li><a href="/ropa-hombre/denim-hombre/morrison?PS=48&amp;O=OrderByReleaseDateDESC">Morrison</a></li>
+	            			<li><a href="/ropa-hombre/denim-hombre/tendencias?PS=48&amp;O=OrderByReleaseDateDESC">Tendencias</a></li>
+	            			<li><a href="/ropa-hombre/denim-hombre/hornet?PS=48&amp;O=OrderByReleaseDateDESC">Hornet</a></li>
+	            			<li><a href="/ropa-hombre/denim-hombre/rider?PS=48&amp;O=OrderByReleaseDateDESC">Rider</a></li>
+	            			<li><a href="/ropa-hombre/denim-hombre/famous?PS=48&amp;O=OrderByReleaseDateDESC">Famous</a></li>
+	            			<li><a href="/ropa-hombre/denim-hombre/crook?PS=48&amp;O=OrderByReleaseDateDESC">Crook</a></li>
+	            			<li><a href="/ropa-hombre/denim-hombre/hendrix?PS=48&amp;O=OrderByReleaseDateDESC">Hendrix</a></li>
+	            			<li><a href="/ropa-hombre/denim-hombre?PS=12&amp;O=OrderByReleaseDateDESC">Ver todo</a></li>
+	            		</ul>-->
+                        </li>
+                        <li class="menu-third-level"><a href="/ropa-mujer/denim-mujer/"><span>Mujer</span></a>
+                            <!--<ul class="sub-menu-principal">
+	            			<li><a href="/ropa-mujer/denim-mujer/biker?PS=48&amp;O=OrderByReleaseDateDESC">Biker</a></li>
+	            			<li><a href="/ropa-mujer/denim-mujer/rusty?PS=48&amp;O=OrderByReleaseDateDESC">Rusty</a></li>
+	            			<li><a href="/ropa-mujer/denim-mujer/gold?PS=48&amp;O=OrderByReleaseDateDESC">Gold</a></li>
+	            			<li><a href="/ropa-mujer/denim-mujer/crystal?PS=48&amp;O=OrderByReleaseDateDESC">Crystal</a></li>
+	            			<li><a href="/ropa-mujer/denim-mujer/harem?PS=48&amp;O=OrderByReleaseDateDESC">Harem</a></li>
+	            			<li><a href="/ropa-mujer/denim-mujer/boyfit?PS=48&amp;O=OrderByReleaseDateDESC">Boyfit</a></li>
+	            			<li><a href="/ropa-mujer/denim-mujer/tendencias?PS=48&amp;O=OrderByReleaseDateDESC">Tendencias</a></li>
+	            			<li><a href="/ropa-mujer/denim-mujer/wide-leg?PS=48&amp;O=OrderByReleaseDateDESC">Wide leg</a></li>
+	            			<li><a href="/ropa-mujer/denim-mujer/mas-denim?PS=12&amp;O=OrderByReleaseDateDESC">Ver todo</a></li>
+	            		</ul>-->
+                        </li>
+                    </ul>
+                </li>
+                <li class="menu-first-level denim"><a><span>Accesorios</span></a>
+                    <ul class="menu-second-level">
+                        <li class="menu-third-level parent-style"><a href="/accesorios/accesorios-hombre"><span>Hombre</span></a>
+                            <ul class="sub-menu-principal">
+                                <li><a href="/accesorios/accesorios-hombre/underwear?PS=48&amp;O=OrderByReleaseDateDESC">Underwear</a>
+                                </li>
+                                <li><a href="/accesorios/accesorios-hombre/maletines-y-bolsos?PS=48&amp;O=OrderByReleaseDateDESC">Bolsos</a>
+                                </li>
+                                <li><a href="/accesorios/accesorios-hombre/zapatos?PS=48&amp;O=OrderByReleaseDateDESC">Zapatos Hombre</a>
+                                </li>
+                                <li><a href="/accesorios/accesorios-hombre/correas?PS=48&amp;O=OrderByReleaseDateDESC">Correas</a>
+                                </li>
+                                <li><a href="/accesorios/accesorios-hombre/billeteras?PS=48&amp;O=OrderByReleaseDateDESC">Billeteras</a>
+                                </li>
+                                <li><a href="/accesorios/accesorios-hombre/gorras?PS=48&amp;O=OrderByReleaseDateDESC">Gorras</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="menu-third-level parent-style"><a href="/accesorios/accesorios-mujer"><span>Mujer</span></a>
+                            <ul class="sub-menu-principal">
+                                <li><a href="/accesorios/accesorios-mujer/bufandas?PS=48&amp;O=OrderByReleaseDateDESC">Bufandas</a>
+                                </li>
+                                <li><a href="/accesorios/accesorios-mujer/billeteras?PS=48&amp;O=OrderByReleaseDateDESC">Billeteras</a>
+                                </li>
+                                <li><a href="/accesorios/accesorios-mujer/bolsos?PS=48&amp;O=OrderByReleaseDateDESC">Bolsos</a>
+                                </li>
+                                <li><a href="/accesorios/accesorios-mujer/correas?PS=48&amp;O=OrderByReleaseDateDESC">Correas</a>
+                                </li>
+                                <li><a href="/accesorios/accesorios-mujer/underwear?PS=48&amp;O=OrderByReleaseDateDESC">Underwear</a>
+                                </li>
+                                <li><a href="/accesorios/accesorios-mujer/zapatos?PS=48&amp;O=OrderByReleaseDateDESC">Zapatos Mujer</a>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+                <li class="duck-nav">
+                    <img alt="Chevignon" src="/arquivos/chev_duck.png?v=635527198102330000">
+                </li>
+                <li class="menu-first-level lookbok"><a href="/Bonos-fisicos-Chevignon/p"><span>Bonos</span></a>
+                </li>
+                <!--<li class="menu-first-level discounts"><a href="/busca/?fq=H:154"><span>Cyberlunes</span></a></li>-->
+                <!--<li class="menu-first-level discounts"><a href="/catalogo"><span>Lookbook</span></a>-->
+                <!--<ul class="menu-second-level">
+	        		<li class="menu-third-level"><a href="#"><span>Hombre</span></a>
+	        			<ul class="sub-menu-principal">
+	            			<li><a href="">Chaquetas</a></li>
+	            			<li><a href="">Camisas</a></li>
+	            			<li><a href="">Camisetas</a></li>
+	            			<li><a href="">Busos</a></li>
+	            			<li><a href="">Pantalones</a></li>
+	            			<li><a href="">Bermudas</a></li>
+	            			<li><a href="">Accesorios</a></li>
+	            			<li><a href="">Importados</a></li>
+	            		</ul>
+	        		</li>
+	        		<li class="menu-third-level"><a href="/hombre"><span>Mujer</span></a>
+	        			<ul class="sub-menu-principal">
+	            			<li><a href="">Chaquetas</a></li>
+	            			<li><a href="">Camisas</a></li>
+	            			<li><a href="">Camisetas</a></li>
+	            			<li><a href="">Busos</a></li>
+	            			<li><a href="">Vestidos</a></li>
+	            			<li><a href="">Pantalones</a></li>
+	            			<li><a href="">Shorts</a></li>
+	            			<li><a href="">Faldas</a></li>
+	            			<li><a href="">Accesorios</a></li>
+	            			<li><a href="">Importados</a></li>
+	            		</ul>
+	        		</li>
+	        	</ul>-->
+                <!--</li>-->
+                <!--li class="menu-first-level"><p><a title="Descuentos" href="/Descuentos"><span>Descuentos</span></a></p></li-->
+                <li class="menu-first-level stores">
+                    <p><a title="Stores" href="/store-locator"><span>Tiendas</span></a>
+                    </p>
+                </li>
+                <li class="menu-first-level denim"><a href="/Descuento"><span>Descuentos</span></a>
+                    <ul class="menu-second-level">
+                        <li class="menu-third-level parent-style"><a href="/Descuento/descuento30">30%</a>
+                        </li>
+                        <li class="menu-third-level parent-style"><a href="/Descuento/descuento50">50%</a>
+                        </li>
+                        <li class="menu-third-level parent-style"><a href="/Descuento/descuento60">60%</a>
+                        </li>
+                    </ul>
+                </li>
+                <!--<li class="menu-first-level denim"><a href="/diasdemoda"><span>Dias de Moda</span></a>
+            	<ul class="menu-second-level">
+            	    <li class="menu-third-level parent-style"><a href="/diasdemoda/diasdemoda40">40%</a></li>
+            		<li class="menu-third-level parent-style"><a href="/diasdemoda/diasdemoda50">50%</a></li>
+            		<li class="menu-third-level parent-style"><a href="/diasdemoda/diasdemoda60">60%</a></li>      			
+            	</ul>
+            </li>-->
+                <!--<li class="menu-first-level stores"><p><a title="Viveviajar" href="/viveviajar"><span>Viveviajar</span></a></p></li>-->
+                <!--<li class="menu-first-level stores"><p><a title="Denim Day" href="/denimday"><span>Denim Day</span></a></p></li>-->
+            </ul>
+        </div>
+        <div class="search-tool">
+            <div class="searching-chevignon">
+                <div class="search pull-right form-inline">
+                    <script type="text/javascript" language="javascript">
+                        /*<![CDATA[*/ $(document).ready(function(){currentDept = '0'; enableFullTextSearchBox('ftBoxa10883ff3df3499f93585e828aa24162', 'ftDepta10883ff3df3499f93585e828aa24162', 'ftIdxa10883ff3df3499f93585e828aa24162', 'ftBtna10883ff3df3499f93585e828aa24162', '/SEARCHTERM','Buscar' );}); /*]]>*/
+                    </script>
+                    <fieldset class="busca">
+                        <legend>Buscar no site</legend>
+                        <label>Buscar</label>
+                        <select id="ftDepta10883ff3df3499f93585e828aa24162">
+                            <option value="">Todo o site</option>
+                            <option value="1">Ropa Hombre</option>
+                            <option value="27">Ropa Mujer</option>
+                            <option value="55">Accesorios</option>
+                            <option value="70">Bonos Físicos</option>
+                            <option value="71">Lookbooks</option>
+                        </select>
+                        <input type="hidden" id="ftIdxa10883ff3df3499f93585e828aa24162" value="">
+                        <input id="ftBoxa10883ff3df3499f93585e828aa24162" class="fulltext-search-box ui-autocomplete-input" type="text" size="20" accesskey="b" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
+                        <input id="ftBtna10883ff3df3499f93585e828aa24162" type="button" value="Buscar" class="btn-buscar btn">
+                    </fieldset>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- /SubTemplate: Navigation -->
+    <!-- headerResponsive-->
+    <nav class="menuMobile">
+        <ul>
+            <li class="closeNavicon"></li>
+            <li><a href="#">Colección Hombre</a>
+                <ul>
+                    <li><a href="/ropa-hombre/chaquetas?PS=48&amp;O=OrderByReleaseDateDESC">Chaquetas</a>
+                    </li>
+                    <li><a href="/ropa-hombre/camisas?PS=48&amp;O=OrderByReleaseDateDESC">Camisas</a>
+                    </li>
+                    <li><a href="/ropa-hombre/camisetas?PS=48&amp;O=OrderByReleaseDateDESC">Camisetas</a>
+                    </li>
+                    <!--<li><a href="/ropa-hombre/polos?PS=48&amp;O=OrderByReleaseDateDESC">Polos</a></li>-->
+                    <li><a href="/ropa-hombre/busos?PS=48&amp;O=OrderByReleaseDateDESC">Busos</a>
+                    </li>
+                    <!--<li><a href="/ropa-hombre/tejidos?PS=48&amp;O=OrderByReleaseDateDESC">Tejidos</a></li>-->
+                    <li><a href="/ropa-hombre/pantalones?PS=48&amp;O=OrderByReleaseDateDESC">Pantalones</a>
+                    </li>
+                    <li><a href="/ropa-hombre/bermudas?PS=48&amp;O=OrderByReleaseDateDESC">Bermudas</a>
+                    </li>
+                    <li><a href="/ropa-hombre/denim-hombre?PS=48&amp;O=OrderByReleaseDateDESC">Denim</a>
+                    </li>
+                </ul>
+            </li>
+            <li><a href="#">Colección Mujer</a>
+                <ul>
+                    <li><a href="/ropa-mujer/chaquetas?PS=48&amp;O=OrderByReleaseDateDESC">Chaquetas</a>
+                    </li>
+                    <li><a href="/ropa-mujer/camisas?PS=48&amp;O=OrderByReleaseDateDESC">Camisas</a>
+                    </li>
+                    <li><a href="/ropa-mujer/camisetas?PS=48&amp;O=OrderByReleaseDateDESC">Camisetas</a>
+                    </li>
+                    <li><a href="/ropa-mujer/busos?PS=48&amp;O=OrderByReleaseDateDESC">Busos</a>
+                    </li>
+                    <li><a href="/ropa-mujer/tejidos?PS=48&amp;O=OrderByReleaseDateDESC">Tejidos</a>
+                    </li>
+                    <li><a href="/ropa-mujer/vestidos?PS=48&amp;O=OrderByReleaseDateDESC">Vestidos</a>
+                    </li>
+                    <li><a href="/ropa-mujer/pantalones?PS=48&amp;O=OrderByReleaseDateDESC">Pantalones</a>
+                    </li>
+                    <li><a href="/ropa-mujer/shorts?PS=48&amp;O=OrderByReleaseDateDESC">Shorts</a>
+                    </li>
+                    <li><a href="/ropa-mujer/faldas?PS=48&amp;O=OrderByReleaseDateDESC">Faldas</a>
+                    </li>
+                    <li><a href="/ropa-mujer/denim-mujer?PS=48&amp;O=OrderByReleaseDateDESC">Denim</a>
+                    </li>
+                </ul>
+            </li>
+            <li><a href="#">Denim</a>
+                <ul>
+                    <li><a href="/ropa-hombre/denim-hombre"><span>Hombre</span></a>
+                    </li>
+                    <li><a href="/ropa-mujer/denim-mujer/"><span>Mujer</span></a>
+                    </li>
+                </ul>
+            </li>
+            <li><a href="#">Accesorios Hombre</a>
+                <ul>
+                    <li><a href="/accesorios/accesorios-hombre/underwear?PS=48&amp;O=OrderByReleaseDateDESC">Underwear</a>
+                    </li>
+                    <li><a href="/accesorios/accesorios-hombre/maletines-y-bolsos?PS=48&amp;O=OrderByReleaseDateDESC">Maletines y Bolos</a>
+                    </li>
+                    <li><a href="/accesorios/accesorios-hombre/zapatos?PS=48&amp;O=OrderByReleaseDateDESC">Zapatos Hombre</a>
+                    </li>
+                    <li><a href="/accesorios/accesorios-hombre/correas?PS=48&amp;O=OrderByReleaseDateDESC">Correas</a>
+                    </li>
+                    <li><a href="/accesorios/accesorios-hombre/billeteras?PS=48&amp;O=OrderByReleaseDateDESC">Billeteras</a>
+                    </li>
+                    <li><a href="/accesorios/accesorios-hombre/gorras?PS=48&amp;O=OrderByReleaseDateDESC">Gorras</a>
+                    </li>
+                </ul>
+            </li>
+            <li><a href="#">Accesorios Mujer</a>
+                <ul>
+                    <li><a href="/accesorios/accesorios-mujer/bufandas?PS=48&amp;O=OrderByReleaseDateDESC">Bufandas</a>
+                    </li>
+                    <li><a href="/accesorios/accesorios-mujer/billeteras?PS=48&amp;O=OrderByReleaseDateDESC">Billeteras</a>
+                    </li>
+                    <li><a href="/accesorios/accesorios-mujer/bolsos?PS=48&amp;O=OrderByReleaseDateDESC">Bolsos</a>
+                    </li>
+                    <li><a href="/accesorios/accesorios-mujer/correas?PS=48&amp;O=OrderByReleaseDateDESC">Correas</a>
+                    </li>
+                    <li><a href="/accesorios/accesorios-mujer/underwear?PS=48&amp;O=OrderByReleaseDateDESC">Underwear</a>
+                    </li>
+                    <li><a href="/accesorios/accesorios-mujer/zapatos?PS=48&amp;O=OrderByReleaseDateDESC">Zapatos Mujer</a>
+                    </li>
+                </ul>
+            </li>
+            <li><a href="/Bonos-fisicos-Chevignon/p"><span>Bonos</span></a>
+            </li>
+            <li><a title="Stores" href="/store-locator"><span>Tiendas</span></a>
+            </li>
+            <li><a title="Descuentos" href="/Descuentos"><span>Descuentos</span></a>
+            </li>
+        </ul>
+    </nav>
+    <h1 class="logoMobil"><a href="/">Chevignon</a></h1>
+    <div class="headerResponsive">
+        <div class="iconMenu"></div>
+        <h1 class="logoTablet"><a href="/">Chevignon</a></h1>
+        <div class="iconsMobile">
+            <ul>
+                <li class="user"><a href="#">Suscribete</a>
+                </li>
+                <li class="search form-inline"><a href="#">Buscar</a>
+                </li>
+                <li class="cartMobil">
+                    <div class="cart-info">
+                        <a href="/checkout/">
+                            <div class="portal-totalizers-ref">
+                                <div class="amount-items-in-cart">
+                                    <div class="cartInfoWrapper"><span class="title"><span id="MostraTextoXml1">Resumo do Carrinho</span></span>
+                                        <ul class="cart-info">
+                                            <li class="amount-products"><strong><span id="MostraTextoXml2">Total de Produtos:</span></strong>  <em class="amount-products-em">0</em>
+                                            </li>
+                                            <li class="amount-items"><strong><span id="MostraTextoXml3">Itens:</span></strong>  <em class="amount-items-em">0</em>
+                                            </li>
+                                            <li class="amount-kits"><strong><span id="MostraTextoXml4">Total de Kits:</span></strong>  <em class="amount-kits-em"></em>
+                                            </li>
+                                            <li class="total-cart"><strong><span id="MostraTextoXml5">Valor Total:</span></strong>  <em class="total-cart-em">$ 0,00</em>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <script>
+                                $('.portal-totalizers-ref').minicart({ showMinicart: false, showTotalizers: true, showShippingOptions: false });
+                            </script>
+                        </a>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="clear"></div>
+    </div>
+    <div class="searchBoxMobil">
+        <script type="text/javascript" language="javascript">
+            /*<![CDATA[*/ $(document).ready(function(){currentDept = '0'; enableFullTextSearchBox('ftBox933b93b72e744369b2d6a8d6a1b8a3f3', 'ftDept933b93b72e744369b2d6a8d6a1b8a3f3', 'ftIdx933b93b72e744369b2d6a8d6a1b8a3f3', 'ftBtn933b93b72e744369b2d6a8d6a1b8a3f3', '/SEARCHTERM','Buscar' );}); /*]]>*/
+        </script>
+        <fieldset class="busca">
+            <legend>Buscar no site</legend>
+            <label>Buscar</label>
+            <select id="ftDept933b93b72e744369b2d6a8d6a1b8a3f3">
+                <option value="">Todo o site</option>
+                <option value="1">Ropa Hombre</option>
+                <option value="27">Ropa Mujer</option>
+                <option value="55">Accesorios</option>
+                <option value="70">Bonos Físicos</option>
+                <option value="71">Lookbooks</option>
+            </select>
+            <input type="hidden" id="ftIdx933b93b72e744369b2d6a8d6a1b8a3f3" value="">
+            <input id="ftBox933b93b72e744369b2d6a8d6a1b8a3f3" class="fulltext-search-box ui-autocomplete-input" type="text" size="20" accesskey="b" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
+            <input id="ftBtn933b93b72e744369b2d6a8d6a1b8a3f3" type="button" value="Buscar" class="btn-buscar btn">
+        </fieldset>
+        <div class="closeSearchMobil">
+            X
+        </div>
+    </div>
+    <!-- headerResponsive-->
+    <div class="container">
+        <div class="row">
+            <div class="span12">
+                <!--  Component: Breadcrumbs 
+				<vtex.cmc:breadCrumb />-->
+                <div id="content" class="row-fluid">
+                    <div class="span2 sidebar">
+                        <div id="departmentNavigator">
+                            <!--  Controle: navegador de departamento -->
+                            <script type="text/javascript" language="javascript">
+                                $(document).ready(function() {
+                                    partialSearchUrl = '/busca?pgedit=1&';
+                                });
+                            </script>
+                            <div class="navigation-tabs">
+                                <div class="menu-departamento"> <span class="rt"></span><span class="rb"></span> 
+                                    <div>
+                                        <div class="menu-navegue"> <a title="Navegue" class="search-navigator-tab tab-navegue-ativo" href="#">Navegue</a>  <a title="Refinar Resultado" class="search-navigator-tab tab-refinar" href="#">Refinar Resultado</a> 
+                                        </div>
+                                        <div class="search-multiple-navigator" style="display: none;">
+                                            <h3 class="ropa-mujer"><span></span><a href="http://www.chevignon.com.co/ropa-mujer" title="Ropa Mujer">Ropa Mujer</a></h3>
+                                            <h4 class="ropa-mujer"><span></span><a href="http://www.chevignon.com.co/ropa-mujer" title="Pantalones">Pantalones</a></h4>
+                                            <a title="Refinar Resultado" class="bt-refinar search-filter-button even" href="#">Refinar Resultado</a>
+                                        </div>
+                                        <div class="search-single-navigator" style="display:block">
+                                            <h3 class="ropa-mujer"><span></span><a href="http://www.chevignon.com.co/ropa-mujer" title="Ropa Mujer">Ropa Mujer</a></h3>
+                                            <h4 class="ropa-mujer even"><a href="http://www.chevignon.com.co/pantalon-7315005/p" title="Pantalones">Pantalones (1)</a></h4>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="urlLastSearch" style="display:none">http://www.chevignon.com.co/pantalon-7315005/p?pgedit=1</div>
+                            <!-- /Controle: navegador de departamento -->
+                        </div>
+                    </div>
+                    <div class="span10">
+                        <div id="boxBreadCrumb" class="breadcrumbs clearfix">
+                            <div class="bread-crumb">
+                                <ul class="breadcrumb">
+                                    <li><a title="chevignon" href="/">chevignon</a><span class="divider">/</span>
+                                    </li>
+                                    <li><a title="Ropa Mujer" href="http://www.chevignon.com.co/ropa-mujer?PS=20">Ropa Mujer</a><span class="divider">/</span>
+                                    </li>
+                                    <li class="last"><strong><a title="Pantalones" href="http://www.chevignon.com.co/ropa-mujer/pantalones?PS=20">Pantalones</a></strong><span class="divider">/</span>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="span6 product-image">
+                            <div class="thumbnail text-center">
+                                <!--  Component: Product Images -->
+                                <div class="apresentacao">
+                                    <div id="setaThumbs"></div>
+                                    <div id="show">
+                                        <div id="include">
+                                            <div id="image" productindex="0">
+
+                                                <a class="image-zoom" href="http://chevignon.vteximg.com.br/arquivos/ids/198550-1000-1232/63_7315005_121509_.jpg?v=635628182688900000" rel="undefined" title="" style="outline-style: none; text-decoration: none;">
+                                                    <div class="zoomPad">
+                                                        <img id="image-main" src="http://chevignon.vteximg.com.br/arquivos/ids/198550-366-451/63_7315005_121509_.jpg?v=635628182688900000" productindex="0" class="sku-rich-image-main" title="" style="opacity: 1;">
+                                                        <div class="zoomPup" style="top: 170px; left: 127.5px; width: 109px; height: 109px; position: absolute; border-width: 1px; display: none;"></div>
+                                                        <div class="zoomWindow" style="position: absolute; z-index: 5001; left: 376px; top: 0px; display: none;">
+                                                            <div class="zoomWrapper" style="width: 300px;">
+                                                                <div class="zoomWrapperTitle" style="width: 100%; position: absolute; display: none;"></div>
+                                                                <div class="zoomWrapperImage" style="width: 100%; height: 300px;">
+                                                                    <img src="http://chevignon.vteximg.com.br/arquivos/ids/198550-1000-1232/63_7315005_121509_.jpg?v=635628182688900000" style="position: absolute; border: 0px; display: block; left: -351.09289617486337px; top: -467.12195121951225px;">
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="zoomPreload" style="visibility: hidden; top: 0px; left: -8.5px; position: absolute;"></div>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                        <ul class="thumbs unstyled thumbnails">
+                                            <li>
+                                                <a id="botaoZoom" href="javascript:void(0);" title="Zoom" rel="http://chevignon.vteximg.com.br/arquivos/ids/198550-366-451/63_7315005_121509_.jpg?v=635628182688900000" zoom="http://chevignon.vteximg.com.br/arquivos/ids/198550-1000-1232/63_7315005_121509_.jpg?v=635628182688900000"
+                                                class="thumbnail ON">
+                                                    <img src="http://chevignon.vteximg.com.br/arquivos/ids/198550-60-73/63_7315005_121509_.jpg?v=635628182688900000" title="63_7315005_121509_" alt="63_7315005_121509_">
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a id="botaoZoom" href="javascript:void(0);" title="Zoom" rel="http://chevignon.vteximg.com.br/arquivos/ids/198551-366-451/63_7315005_121509_.jpg?v=635628182714500000" zoom="http://chevignon.vteximg.com.br/arquivos/ids/198551-1000-1232/63_7315005_121509_.jpg?v=635628182714500000"
+                                                class="thumbnail">
+                                                    <img src="http://chevignon.vteximg.com.br/arquivos/ids/198551-60-73/63_7315005_121509_.jpg?v=635628182714500000" title="63_7315005_121509_" alt="63_7315005_121509_">
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="span6 product-information">
+                            <div class="well">
+                                <div class="pull-left span12">
+                                    <!--  Component: Product Name -->
+                                    <h1 class="lead"><div class="fn productName  Pantalon-7315005">Pantalón 7315005 - Rosa 5</div><input id="___rc-p-id" type="hidden" value="2002039"><input id="___rc-p-dv-id" type="hidden" value="138900"><input id="___rc-p-sku-ids" type="hidden" value="2019063,2019064,2019065,2019066,2019067,2019068,2019069,2019070,2019071,2019072,2019073,2019074,2019075,2019076,2019077,2019078,2019079,2019080,2019081,2019082,2019083,2019084,2019085,2019086,2019087,2019088,2019089,2019090,2019091,2019092"><input id="___rc-p-kit-ids" type="hidden" value=""></h1>
+                                    <!--<vtex.cmc:stockKeepingUnitSelection />-->
+                                    <div id="skuSelection">
+                                        <div class="sku-selector-container sku-selector-container-0">
+                                            <ul class="topic Talla productid-2002039 numopt-5">
+                                                <li class="specification">Talla</li>
+                                                <li class="select skuList item-dimension-Talla"><span class="group_0"><input type="radio" name="2002039_Talla" dimension="Talla" data-value="5" data-dimension="Talla" class="skuselector-specification-label input-dimension-Talla sku-selector skuespec_5 change-image checked sku-picked" id="2002039_Talla_0" value="5" specification="5" checked="checked"><label for="2002039_Talla_0" class="dimension-Talla espec_0 skuespec_5 skuespec_Talla_opcao_5 skuespec_Talla_opcao_5 checked sku-picked">5</label><input type="radio" name="2002039_Talla" dimension="Talla" data-value="6" data-dimension="Talla" class="skuselector-specification-label input-dimension-Talla sku-selector skuespec_6 change-image" id="2002039_Talla_1" value="6" specification="6"><label for="2002039_Talla_1" class="dimension-Talla espec_0 skuespec_6 skuespec_Talla_opcao_6 skuespec_Talla_opcao_6">6</label><input type="radio" name="2002039_Talla" dimension="Talla" data-value="8" data-dimension="Talla" class="skuselector-specification-label input-dimension-Talla sku-selector skuespec_8 change-image" id="2002039_Talla_2" value="8" specification="8"><label for="2002039_Talla_2" class="dimension-Talla espec_0 skuespec_8 skuespec_Talla_opcao_8 skuespec_Talla_opcao_8">8</label><input type="radio" name="2002039_Talla" dimension="Talla" data-value="10" data-dimension="Talla" class="skuselector-specification-label input-dimension-Talla sku-selector skuespec_10 change-image" id="2002039_Talla_3" value="10" specification="10"><label for="2002039_Talla_3" class="dimension-Talla espec_0 skuespec_10 skuespec_Talla_opcao_10 skuespec_Talla_opcao_10">10</label><input type="radio" name="2002039_Talla" dimension="Talla" data-value="12" data-dimension="Talla" class="skuselector-specification-label input-dimension-Talla sku-selector skuespec_12 change-image" id="2002039_Talla_4" value="12" specification="12"><label for="2002039_Talla_4" class="dimension-Talla espec_0 skuespec_12 skuespec_Talla_opcao_12 skuespec_Talla_opcao_12">12</label></span>
+                                                </li>
+                                            </ul>
+                                            <ul class="topic Color productid-2002039 numopt-6">
+                                                <li class="specification">Color</li>
+                                                <li class="select skuList item-dimension-Color"><span class="group_1"><input type="radio" name="2002039_Color" dimension="Color" data-value="63_7315005_121509" data-dimension="Color" class="skuselector-specification-label input-dimension-Color sku-selector skuespec_63_7315005_121509 change-image item_unavaliable item_unavailable checked sku-picked" id="2002039_Color_0" value="63_7315005_121509" specification="63_7315005_121509" checked="checked"><label for="2002039_Color_0" class="dimension-Color espec_1 skuespec_63_7315005_121509 skuespec_Color_opcao_63_7315005_121509 skuespec_Color_opcao_63_7315005_121509 item_unavaliable item_unavailable disabled checked sku-picked" style="background-image: url(http://chevignon.vtexcommercestable.com.br/arquivos/63_7315005_121509.jpg);">63_7315005_121509</label><input type="radio" name="2002039_Color" dimension="Color" data-value="63_7315005_121109" data-dimension="Color" class="skuselector-specification-label input-dimension-Color sku-selector skuespec_63_7315005_121109 change-image item_unavaliable item_unavailable" id="2002039_Color_1" value="63_7315005_121109" specification="63_7315005_121109"><label for="2002039_Color_1" class="dimension-Color espec_1 skuespec_63_7315005_121109 skuespec_Color_opcao_63_7315005_121109 skuespec_Color_opcao_63_7315005_121109 item_unavaliable item_unavailable disabled" style="background-image: url(http://chevignon.vtexcommercestable.com.br/arquivos/63_7315005_121109.jpg);">63_7315005_121109</label><input type="radio" name="2002039_Color" dimension="Color" data-value="63_7315005_051209" data-dimension="Color" class="skuselector-specification-label input-dimension-Color sku-selector skuespec_63_7315005_051209 change-image item_unavaliable item_unavailable" id="2002039_Color_2" value="63_7315005_051209" specification="63_7315005_051209"><label for="2002039_Color_2" class="dimension-Color espec_1 skuespec_63_7315005_051209 skuespec_Color_opcao_63_7315005_051209 skuespec_Color_opcao_63_7315005_051209 item_unavaliable item_unavailable disabled" style="background-image: url(http://chevignon.vtexcommercestable.com.br/arquivos/63_7315005_051209.jpg);">63_7315005_051209</label><input type="radio" name="2002039_Color" dimension="Color" data-value="63_7315005_141700" data-dimension="Color" class="skuselector-specification-label input-dimension-Color sku-selector skuespec_63_7315005_141700 change-image item_unavaliable item_unavailable" id="2002039_Color_3" value="63_7315005_141700" specification="63_7315005_141700"><label for="2002039_Color_3" class="dimension-Color espec_1 skuespec_63_7315005_141700 skuespec_Color_opcao_63_7315005_141700 skuespec_Color_opcao_63_7315005_141700 item_unavaliable item_unavailable disabled" style="background-image: url(http://chevignon.vtexcommercestable.com.br/arquivos/63_7315005_141700.jpg);">63_7315005_141700</label><input type="radio" name="2002039_Color" dimension="Color" data-value="63_7315005_021209" data-dimension="Color" class="skuselector-specification-label input-dimension-Color sku-selector skuespec_63_7315005_021209 change-image item_unavaliable item_unavailable" id="2002039_Color_4" value="63_7315005_021209" specification="63_7315005_021209"><label for="2002039_Color_4" class="dimension-Color espec_1 skuespec_63_7315005_021209 skuespec_Color_opcao_63_7315005_021209 skuespec_Color_opcao_63_7315005_021209 item_unavaliable item_unavailable disabled" style="background-image: url(http://chevignon.vtexcommercestable.com.br/arquivos/63_7315005_021209.jpg);">63_7315005_021209</label><input type="radio" name="2002039_Color" dimension="Color" data-value="63_7315005_011409" data-dimension="Color" class="skuselector-specification-label input-dimension-Color sku-selector skuespec_63_7315005_011409 change-image item_unavaliable item_unavailable" id="2002039_Color_5" value="63_7315005_011409" specification="63_7315005_011409"><label for="2002039_Color_5" class="dimension-Color espec_1 skuespec_63_7315005_011409 skuespec_Color_opcao_63_7315005_011409 skuespec_Color_opcao_63_7315005_011409 item_unavaliable item_unavailable disabled" style="background-image: url(http://chevignon.vtexcommercestable.com.br/arquivos/63_7315005_011409.jpg);">63_7315005_011409</label></span>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <script>
+                                            $('.sku-selector-container-0').skuSelector(skuJson_0, {selectSingleDimensionsOnOpening: 'true'});
+                                        </script>
+                                        <div class="guia-tallas"><a>Guia de Tallas</a>
+                                        </div>
+                                    </div>
+                                    <!--  Component: Short description 
+        							<vtex.cmc:productDescriptionShort />-->
+                                    <div class="price-tag">
+                                        <!--  Component: Price -->
+                                        <div class="plugin-preco">
+                                            <div class="productPrice">
+                                                <p class="descricao-preco"></p>
+                                                <p class="preco-a-vista price-cash" style="display: none;"></p>
+                                            </div>
+                                        </div>
+                                        <script>
+                                            $('.plugin-preco').price(2002039);
+                                        </script>
+                                        <!-- <div class="share-mod"> -->
+                                        <!-- <vtex:template id="share-mod"/> -->
+                                        <!-- </div> -->
+                                    </div>
+                                    <!-- <div class="selectSku">-->
+                                    <!-- <vtex.cmc:skuSelection />-->
+                                    <!-- </div>-->
+                                    <div class="selection-sku">
+                                        <div class="skuReference"></div>
+                                    </div>
+                                    <div class="buying-buttons">
+                                        <!--  Component: Buy button / Notify me -->
+                                        <div id="BuyButton" class="pull-left">
+                                            <input size="20" type="text" class="buy-in-page-quantity" value="1" productindex="0" style="display: none;">
+                                            <script>
+                                                $('.buy-in-page-quantity[productindex=0]').on('change', function(evt){
+                                                    var el = $(evt.target), qty = +el.val();
+                                                    if(isNaN(qty)) return;
+                                                    el.trigger('quantityChanged.vtex', [2002039, qty]);
+                                                });
+                                                $(window).on('vtex.sku.selected', function(evt, productId, sku){
+                                                    var el = $('.buy-in-page-quantity[productindex=0]');
+                                                    if(2002039 === productId){
+                                                        if(sku.available){
+                                                            el.show();
+                                                        } else {
+                                                            el.hide();
+                                                        }
+                                                    }
+                                                });
+                                            </script>
+                                            <a class="buy-in-page-button" productindex="0" style="display: none;" href="/checkout/cart/add?sku=2019075&amp;qty=1&amp;seller=1&amp;redirect=false&amp;sc=1">Comprar</a>
+                                            <script>
+                                                $('.buy-in-page-button[productindex=0]').buyButton(2002039, {salesChannel: 1}, {redirect: false, addMessage: 'Produto adicionado com sucesso!', hideUnavailable: true, queryParams: {}})
+                                            </script>
+                                            <p class="unavailable-button" productindex="0" style="display:none">Produto Esgotado</p>
+                                            <div productindex="0" class="notifyme" style="display:none">
+                                                <div class="notifyme sku-notifyme" style="display: block;">
+                                                    <div class="notifyme-title-div" style="display: block;">
+                                                        <h3 class="notifymetitle notifyme-title">Avise-Me</h3>
+                                                    </div>
+                                                    <form action="/no-cache/AviseMe.aspx" style="display: block;">
+                                                        <fieldset class="sku-notifyme-form notifyme-form">
+                                                            <p>Para ser avisado da disponibilidade deste Produto, basta preencher os campos abaixo.</p>
+                                                            <input class="sku-notifyme-client-name notifyme-client-name" placeholder="Digite su nombre..." size="20"
+                                                            type="text" name="notifymeClientName" id="notifymeClientName" style="display: inline-block;">
+                                                            <input class="sku-notifyme-client-email notifyme-client-email" placeholder="Digite su e-mail..." size="20" type="text" name="notifymeClientEmail" id="notifymeClientEmail" style="display: inline-block;">
+                                                            <input class="btn-ok sku-notifyme-button-ok notifyme-button-ok btn" value="ok" type="button" name="notifymeButtonOK" id="notifymeButtonOK" style="display: inline-block;">
+                                                            <input type="hidden" class="sku-notifyme-skuid notifyme-skuid" name="notifymeIdSku" value="2019075" style="display: none;">
+                                                        </fieldset>
+                                                    </form>
+                                                    <p class="notifyme-loading-message" style="display: none;"><span class="sku-notifyme-loading notifyme-loading">Carregando...</span>
+                                                    </p>
+                                                    <fieldset class="success" style="display: none;">
+                                                        <label><em><span class="sku-notifyme-success notifyme-success">Cadastrado com sucesso. Assim que o produto for disponibilizado você receberá um email avisando.</span></em>
+                                                        </label>
+                                                    </fieldset>
+                                                    <fieldset class="error" style="display: none;">
+                                                        <label><span class="sku-notifyme-error   notifyme-error"></span>
+                                                        </label>
+                                                    </fieldset>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div id="wishlist" class="pull-right">
+                                            <div class="giftlist-insertsku-wrapper">
+                                                <span class="hidden-glis-create-url" style="display: none !important;">/giftlist/edit</span>
+                                                <span class="hidden-glis-edit-url" style="display: none !important;">/giftlist/product</span>
+                                                <span class="hidden-glis-addtoquantity" style="display: none !important;">True</span>
+                                                <span class="hidden-glis-address-message" style="display: none !important;">O Tipo de Lista selecionado requer um endereço de entrega. Você será redirecionado para a criação da lista e retornará para esta página ao concluir o cadastro.</span>
+                                                <span class="hidden-glis-address-message-add" style="display: none !important;">Todos os Produtos selecionados serão incluidos à sua nova Lista</span>
+                                                <span class="hidden-glis-address-message-noadd" style="display: none !important;">Você precisará incluir os Produtos após o cadastro de sua nova Lista</span>
+                                                <div class="glis-save-template" style="display: none !important;">
+                                                    <li class="glis-save-title-new">Sua Lista foi criada com sucesso</li>
+                                                    <li class="glis-save-inserted">#quantidade# Produto(s) adicionado(s) à sua Lista</li>
+                                                    <li class="glis-save-existing">#quantidade# Produto (s) selecionado(s) já existia(m) em sua Lista</li>
+                                                    <li class="glis-save-edit"><a class="glis-edit-link" href="/giftlist/manage">Clique aqui para gerenciar sua Lista</a>
+                                                    </li>
+                                                </div>
+
+                                                <div class="glis-sku-single glis-sku-default">
+
+                                                    <span class="hidden-sku-default" style="display: none !important;">2019063</span>
+                                                    <input type="text" size="3" class="insert-sku-quantity" maxlength="3" id="isq-816d3c4279654ba3bacbdff87bbcb88a" value="1">
+                                                    <span class="glis-sku-single-item" name="816d3c4279654ba3bacbdff87bbcb88a">Rosa 8</span>
+                                                </div>
+                                                <div class="ajax-content-loader" rel="/no-cache/GiftListInsertSkuV2.aspx?mode=list&amp;popup=true&amp;types=1,2,3&amp;return=%2fpantalon-7315005%2fp%3fpgedit%3d1">
+                                                    <div class="giftlist-insertsku-must-login">
+                                                        <a class="glis-link must-login" href="/login?ReturnUrl=%2fpantalon-7315005%2fp%3fpgedit%3d1">Faça login pra adicionar produtos à lista</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!--<div class="gift-list">
+                                         Controle: Gift List Button       
+                                            <vtex.cmc:giftListInsertSku/>
+                                        Controle: Gift List Button 
+                                        </div> --></div>
+                                    <div class="information-tabs-level">
+                                        <div id="tabs">
+                                            <ul>
+                                                <li id="li_tab1" onclick="tab('tab1')"><a>DETALLES</a>
+                                                </li>
+                                                <li id="li_tab2" onclick="tab('tab2')"><a>AYUDA</a>
+                                                </li>
+                                            </ul>
+                                            <div id="Content_Area">
+                                                <div id="tab1">
+                                                    <p></p>
+                                                    <div class="productDescription">Pantalón de mujer tiro medio, bota recta. Bolsillos en diagonal en el frente, y cortes con vivos en los costados. Ribetes atrás. Composición Prenda: 96% Algodón, 4% Elastano.</div>
+                                                    <p></p>
+                                                </div>
+                                                <div id="tab2" style="display: none;">
+                                                    <p>¿Necesitas ayuda?</p>
+                                                    <p>Llámanos al <strong>01 8000 517424</strong> o envíanos un email a <strong>tiendaonline@chevignon.com.co</strong>
+                                                    </p>
+                                                    <br>- Compra 24 horas, 7 días a la semana.
+                                                    <br>- Promesa de entrega en 5 días hábiles según el destino.
+                                                    <br>
+                                                    <br>
+                                                    <p>Si tienes más dudas resuélvelas en nuestras sección de <a href="/ayuda">Ayuda</a> donde podrás encontrar más información sobre nuestro servicio.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="vitrine products-carrusel">
+                        <!--  Placeholder: Recomentations -->
+                        <h2>También te puede gustar</h2>
+                        <div class="prateleira vitrine n4colunas">
+                            <h2>Coleccion</h2>
+                            <ul>
+                                <li layout="ef3fcb99-de72-4251-aa57-71fe5b6e149f">
+                                    <div class="showcase-shelf">
+                                        <span class="productID-oculto" style="display: none;">2000318</span>
+
+                                        <div class="imagen_producto_cont">
+
+                                            <a class="productImage" title="PANTALONES RIPPED" href="http://www.chevignon.com.co/pantalones-ripped/p">
+                                                <img src="http://chevignon.vteximg.com.br/arquivos/ids/160204-366-451/63_7314000_041309_.jpg?v=635521805555870000" width="366" height="451" alt="63_7314000_041309_" id="">
+                                            </a>
+                                            <a class="next_image" title="PANTALONES RIPPED" href="http://www.chevignon.com.co/pantalones-ripped/p">
+
+                                            </a>
+
+                                        </div>
+
+                                        <div class="hightlight-tag">
+                                            <p class="flag dtopermanente50">dtopermanente50</p>
+                                        </div>
+                                        <div class="hightlight-tag"></div>
+                                        <div class="json-similares" style="display: none;">
+                                            <div class="product-field product_field_40 product-field-type_2">
+                                                JsonSimilares
+                                                <ul>
+                                                    <li class="--" url":"="" arquivos="" ids="" 160186_2="" 63_7314000_041309_.jpg?v="635521804554300000&quot;&quot;color&quot;:&quot;63_7314000_041309&quot;--&quot;url&quot;:&quot;/arquivos/ids/160184_2/63_7314000_061700_.jpg?v=635521804453130000&quot;&quot;color&quot;:&quot;63_7314000_061700&quot;--&quot;url&quot;:&quot;/arquivos/ids/160182_2/63_7314000_121109_.jpg?v=635521804357870000&quot;&quot;color&quot;:&quot;63_7314000_121109&quot;--&quot;">[{"url":"/arquivos/ids/160186_2/63_7314000_041309_.jpg?v=635521804554300000","color":"63_7314000_041309"},{"url":"/arquivos/ids/160184_2/63_7314000_061700_.jpg?v=635521804453130000","color":"63_7314000_061700"},{"url":"/arquivos/ids/160182_2/63_7314000_121109_.jpg?v=635521804357870000","color":"63_7314000_121109"}]</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="data">
+                                            <h3 class="lead">
+            <a title="PANTALONES RIPPED" href="http://www.chevignon.com.co/pantalones-ripped/p">
+                PANTALONES RIPPED
+            </a>
+        </h3>
+                                            <p class="price">
+                                                <a title="PANTALONES RIPPED" href="http://www.chevignon.com.co/pantalones-ripped/p">
+                                                    <span class="oldPrice">
+                        Antes: $138.900,00
+                    </span>
+                                                    <br>
+                                                    <span class="bestPrice discount">
+                        <span>Ahora:</span> $69.450,00
+                                                    </span>
+                                                </a>
+                                            </p>
+
+
+                                            <div class="buy-quick-view"><a class="thickbox" alt="PANTALONES RIPPED" href="http://www.chevignon.com.co/quick-view/?idproduto=2000318&amp;KeepThis=true&amp;TB_iframe=true">Espiar</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li id="helperComplement_2000318" style="display:none" class="helperComplement"></li>
+                                <li layout="ef3fcb99-de72-4251-aa57-71fe5b6e149f">
+                                    <div class="showcase-shelf">
+                                        <span class="productID-oculto" style="display: none;">2000333</span>
+
+                                        <div class="imagen_producto_cont">
+
+                                            <a class="productImage" title="Pantalón 7334000" href="http://www.chevignon.com.co/pantalon-7334000/p">
+                                                <img src="http://chevignon.vteximg.com.br/arquivos/ids/160613-366-451/63_7334000_080011_.jpg?v=635521974683970000" width="366" height="451" alt="63_7334000_080011_" id="">
+                                            </a>
+                                            <a class="next_image" title="Pantalón 7334000" href="http://www.chevignon.com.co/pantalon-7334000/p">
+
+                                            </a>
+
+                                        </div>
+
+                                        <div class="hightlight-tag"></div>
+                                        <div class="hightlight-tag"></div>
+                                        <div class="json-similares" style="display: none;">
+                                            <div class="product-field product_field_40 product-field-type_2">
+                                                JsonSimilares
+                                                <ul>
+                                                    <li class="--" url":"="" arquivos="" ids="" 160617_2="" 63_7334000_021811_.jpg?v="635521974886600000&quot;&quot;color&quot;:&quot;63_7334000_021811&quot;--&quot;url&quot;:&quot;/arquivos/ids/160613_2/63_7334000_080011_.jpg?v=635521974683970000&quot;&quot;color&quot;:&quot;63_7334000_080011&quot;--&quot;url&quot;:&quot;/arquivos/ids/174110_2/63_7334000_140011_.jpg?v=635525214654270000&quot;&quot;color&quot;:&quot;63_7334000_140011&quot;--&quot;">[{"url":"/arquivos/ids/160617_2/63_7334000_021811_.jpg?v=635521974886600000","color":"63_7334000_021811"},{"url":"/arquivos/ids/160613_2/63_7334000_080011_.jpg?v=635521974683970000","color":"63_7334000_080011"},{"url":"/arquivos/ids/174110_2/63_7334000_140011_.jpg?v=635525214654270000","color":"63_7334000_140011"}]</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="data">
+                                            <h3 class="lead">
+            <a title="Pantalón 7334000" href="http://www.chevignon.com.co/pantalon-7334000/p">
+                Pantalón 7334000
+            </a>
+        </h3>
+                                            <p class="price">
+                                                <a title="Pantalón 7334000" href="http://www.chevignon.com.co/pantalon-7334000/p">
+                                                    <span class="bestPrice">
+                        $138.900,00
+                    </span>
+                                                </a>
+                                            </p>
+
+
+                                            <div class="buy-quick-view"><a class="thickbox" alt="Pantalón 7334000" href="http://www.chevignon.com.co/quick-view/?idproduto=2000333&amp;KeepThis=true&amp;TB_iframe=true">Espiar</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li id="helperComplement_2000333" style="display:none" class="helperComplement"></li>
+                                <li layout="ef3fcb99-de72-4251-aa57-71fe5b6e149f">
+                                    <div class="showcase-shelf">
+                                        <span class="productID-oculto" style="display: none;">2001969</span>
+
+                                        <div class="imagen_producto_cont">
+
+                                            <a class="productImage" title="Pantalón 7315000" href="http://www.chevignon.com.co/pantalon-7315000/p">
+                                                <img src="http://chevignon.vteximg.com.br/arquivos/ids/197013-366-451/63_7315000_100209_.jpg?v=635618603913470000" width="366" height="451" alt="63_7315000_100209_" id="">
+                                            </a>
+                                            <a class="next_image" title="Pantalón 7315000" href="http://www.chevignon.com.co/pantalon-7315000/p">
+                                                <img src="http://chevignon.vteximg.com.br/arquivos/ids/197014-366-451/63_7315000_100209_.jpg?v=635618603940670000" width="366" height="451" alt="63_7315000_100209_" id="">
+                                            </a>
+
+                                        </div>
+
+                                        <div class="hightlight-tag"></div>
+                                        <div class="hightlight-tag"></div>
+                                        <div class="json-similares" style="display: none;"></div>
+                                        <div class="data">
+                                            <h3 class="lead">
+            <a title="Pantalón 7315000" href="http://www.chevignon.com.co/pantalon-7315000/p">
+                Pantalón 7315000
+            </a>
+        </h3>
+                                            <p class="price">
+                                                <a title="Pantalón 7315000" href="http://www.chevignon.com.co/pantalon-7315000/p">
+                                                    <span class="bestPrice">
+                        $138.900,00
+                    </span>
+                                                </a>
+                                            </p>
+
+
+                                            <div class="buy-quick-view"><a class="thickbox" alt="Pantalón 7315000" href="http://www.chevignon.com.co/quick-view/?idproduto=2001969&amp;KeepThis=true&amp;TB_iframe=true">Espiar</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li id="helperComplement_2001969" style="display:none" class="helperComplement"></li>
+                                <li layout="ef3fcb99-de72-4251-aa57-71fe5b6e149f" class=" last">
+                                    <div class="showcase-shelf">
+                                        <span class="productID-oculto" style="display: none;">2001955</span>
+
+                                        <div class="imagen_producto_cont">
+
+                                            <a class="productImage" title="Pantalón 7315002" href="http://www.chevignon.com.co/pantalon-7315002/p">
+                                                <img src="http://chevignon.vteximg.com.br/arquivos/ids/196789-366-451/63_7315002_171309_.jpg?v=635618540323800000" width="366" height="451" alt="63_7315002_171309_" id="">
+                                            </a>
+                                            <a class="next_image" title="Pantalón 7315002" href="http://www.chevignon.com.co/pantalon-7315002/p">
+                                                <img src="http://chevignon.vteximg.com.br/arquivos/ids/196790-366-451/63_7315002_171309_.jpg?v=635618540346300000" width="366" height="451" alt="63_7315002_171309_" id="">
+                                            </a>
+
+                                        </div>
+
+                                        <div class="hightlight-tag"></div>
+                                        <div class="hightlight-tag"></div>
+                                        <div class="json-similares" style="display: none;"></div>
+                                        <div class="data">
+                                            <h3 class="lead">
+            <a title="Pantalón 7315002" href="http://www.chevignon.com.co/pantalon-7315002/p">
+                Pantalón 7315002
+            </a>
+        </h3>
+                                            <p class="price">
+                                                <a title="Pantalón 7315002" href="http://www.chevignon.com.co/pantalon-7315002/p">
+                                                    <span class="bestPrice">
+                        $158.900,00
+                    </span>
+                                                </a>
+                                            </p>
+
+
+                                            <div class="buy-quick-view"><a class="thickbox" alt="Pantalón 7315002" href="http://www.chevignon.com.co/quick-view/?idproduto=2001955&amp;KeepThis=true&amp;TB_iframe=true">Espiar</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li id="helperComplement_2001955" style="display:none" class="helperComplement"></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="/arquivos/vtex-custom-scripts.js?v=635182263330200000"></script>
+    <script type="text/javascript" id="">
+        (function(){var a=document.createElement("script"),b=document.getElementsByTagName("script")[0],c="https:"==document.location.protocol?"https://":"http://";a.async=!0;a.src=c+"d2xgf76oeu9pbh.cloudfront.net/ed74dc165a10b86d44fc69e4e90455b0.js";a.type="text/javascript";b.parentNode.insertBefore(a,b)})();
+    </script>
+    <script type="text/javascript" id="">
+        var WRInitTime=(new Date).getTime();
+    </script>
+    <script type="text/javascript" id="">
+        setTimeout(function(){var a=document.createElement("script"),b=document.getElementsByTagName("script")[0];a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0019/6089.js?"+Math.floor((new Date).getTime()/36E5);a.async=!0;a.type="text/javascript";b.parentNode.insertBefore(a,b)},1);
+    </script>
+    <script type="text/javascript" id="" src="//static.criteo.net/js/ld/ld.js"></script>
+    <div class="footer clearfix">
+        <!--  SubTemplate: Footer -->
+        <div class="back-to-top"><a>Subir</a>
+        </div>
+        <div class="footer-container">
+            <div class="content-footer-center">
+                <h4>línea de servicio al cliente 01 8000 423878 </h4>
+                <div class="left-footer">
+                    <ul class="left-footer-list">
+                        <h4>SERVICIOS</h4>
+                        <li><a href="/ayuda/necesitas-ayuda">Ayuda</a>
+                        </li>
+                        <li><a href="/Info/Como-Comprar">Cómo comprar</a>
+                        </li>
+                        <li><a href="/Info/Cambios-Devoluciones">Cambios y Devoluciones</a>
+                        </li>
+                        <li><a href="/Info/Promociones">Promociones</a>
+                        </li>
+                    </ul>
+                    <ul class="right-footer-list">
+                        <h4>SOBRE EL SITIO</h4>
+                        <li><a href="/sobre-sitio/tratamiento-datos">Tratamiento de datos personales</a>
+                        </li>
+                        <li><a href="/sobre-sitio/terminos-condiciones">Términos y condiciones</a>
+                        </li>
+                        <li><a href="/sobre-sitio/politica-privacidad">Políticas de Privacidad</a>
+                        </li>
+                        <li><a href="/sorteomoto2014">Ganadores Sorteo 7 Motos</a>
+                        </li>
+                        <li><a href="/sorteomoto2014baguer">Sorteo 9 Motos</a>
+                        </li>
+                        <li>
+                            <button style="font-size:10px;border:none;text-align:left;color:#666;letter-spacing:none;" class="btn" onclick="zE.activate({hideOnClose: true});">Peticiones, Quejas y reclamos</button>
+                        </li>
+                        <!--<li><a href="/sobre-sitio/terminos-condiciones">Términos y Condiciones</a></li>-->
+                    </ul>
+                </div>
+                <div class="right-footer">
+                    <div class="news-letter">
+                        <h4>Newsletter</h4>
+                        <p>Registrate a nuestro <span>Newsletter</span> y conoce nuestros últimos lanzamientos y promociones</p>
+                        <div class="newsletter" id="NewsLetter_e3ec4936_3ddd_4ddf_b842_fb8ca3896c97">
+                            <h3 class="newsletter-title">novidades</h3>
+                            <fieldset>
+                                <p>Receba novidades e promoções por email:</p>
+                                <input id="newsletterClientName" onfocus="newsSelect(this,'Digite seu nome');" onblur="newsLeave(this,'Digite seu nome');" class="newsletter-client-name" value="Digite seu nome"
+                                size="20" type="text" name="newsClientName">
+                                <input id="newsletterClientEmail" onfocus="newsSelect(this,'Escribe tu correo electrónico');" onblur="newsLeave(this,'Escribe tu correo electrónico');" class="newsletter-client-email" value="Escribe tu correo electrónico"
+                                size="20" type="text" name="newsletterClientEmail">
+                                <input id="newsletterButtonOK" class="btn-ok newsletter-button-ok" value="ok" type="button" name="newsletterButtonOK" onclick="newsButtonClick('NewsLetter_e3ec4936_3ddd_4ddf_b842_fb8ca3896c97')">
+                                <input id="newsletterLoading" type="hidden" class="newsletter-loading" value="Processando...">
+                                <input id="newsletterSuccess" type="hidden" class="newsletter-success" value="Obrigado por se cadastrar na Loja Exemplo!">
+                                <input id="newsletterSuccess2" type="hidden" class="newsletter-success2" value="Em breve entraremos em contato com você para oferecer as melhores promoções.">
+                                <input id="newsletterError" type="hidden" class="newsletter-error" value="
+    Hubo un error con el registro.&lt;br /&gt;Por favor, intenta de nuevo.
+ ">
+                                <input id="newsInternalPage" type="hidden" value="_pantalon-7315005_p">
+                                <input id="newsInternalPart" type="hidden" value="newsletter">
+                                <input id="newsInternalCampaign" type="hidden" value="newsletter:opt-in">
+                            </fieldset><span class="rt"></span><span class="rb"></span><span class="lb"></span><span class="lt"></span>
+                        </div>
+                    </div>
+                    <div class="social-links">
+                        <p>SíGUENOS EN:</p>
+                        <a href="https://www.facebook.com/CH.Chevignon" target="_blank">
+                            <img src="/arquivos/ic_fb.jpg?v=635524646883870000" alt="Facebook" height="22" width="23">
+                        </a>
+                        <a href="https://twitter.com/Chevignon_Ch" target="_blank">
+                            <img src="/arquivos/ic_tw.jpg?v=635524646925430000" alt="Twitter" height="22" width="23">
+                        </a>
+                        <a href="http://instagram.com/chevignon_ch" target="_blank">
+                            <img src="/arquivos/ic_instagram.jpg?v=635524646906370000" alt="Instagram" height="22" width="23">
+                        </a>
+                        <a href="http://www.youtube.com/user/colombiachevignon" target="_blank">
+                            <img src="/arquivos/ic_youtube.jpg?v=635524646935670000" alt="Youtube" height="22" width="68">
+                        </a>
+                        <a href="http://pinterest.com/chevignonch/" target="_blank">
+                            <img src="/arquivos/ic_pinterest.jpg?v=635524646914970000" alt="Pinterest" height="22" width="23">
+                        </a>
+                        <a href="http://www.flickr.com/photos/chevignon/" target="_blank">
+                            <img src="/arquivos/ic_flickr.jpg?v=635524646896100000" alt="Flickr" height="22" width="68">
+                        </a>
+                    </div>
+                </div>
+                <div class="footer-bottom"><font style="color:#ffffff; size:10px;font-family:'Raleway',sans-serif">MERCADEO Y MODA S.A.S / NIT:800169352-6 / Dirección: Calle 14 # 52 A 370 Medellín, Colombia / Tel: 01 8000 423878 / Correo: tiendaonline@chevignon.com.co</font>
+                    <address
+                    class="copyright">Copyright © Chevignon</address>
+                        <div class="footer-links">
+                            <p></p>
+                            <p>Develop by
+                                <a href="http://www.granpanda.com">
+                                    <img alt="Gran Panda" src="/arquivos/granpanda-logo.png?v=635524511210700000">
+                                </a>I
+                                <a href="http://www.vtex.com.br">
+                                    <img alt="Vtex" src="/arquivos/vtex-logo.png?v=635524511221630000">
+                                </a>
+                            </p>
+                            <p>Sitio Seguro
+                                <img alt="Gran Panda" src="/arquivos/security-logos.png?v=635524511218600000">
+                                <!-- Begin DigiCert site seal HTML and JavaScript -->
+                            </p>
+                            <div id="DigiCertClickID_bYOePgcq" data-language="en_US">
+                                <div id="DigiCertClickID_bYOePgcqSeal" style="text-decoration: none; text-align: center; display: block; vertical-align: baseline; font-size: 100%; font-style: normal; text-indent: 0px; line-height: 1; width: auto; margin: 0px auto; padding: 0px; border: 0px; background-color: transparent; position: relative; top: 0px; right: 0px; bottom: 0px; left: 0px; clear: both; float: none; cursor: default; background-position: initial initial; background-repeat: initial initial;">
+                                    <img src="//seal.digicert.com/seals/cascade/?s=bYOePgcq,7,m,www.chevignon.com.co" alt="DigiCert Seal" style="text-decoration: none; text-align: center; display: block; vertical-align: baseline; font-size: 100%; font-style: normal; text-indent: 0px; line-height: 1; width: auto; margin: 0px auto; padding: 0px; border: 0px; background-color: transparent; position: relative; top: 0px; right: 0px; bottom: 0px; left: 0px; clear: both; float: none; cursor: pointer; background-position: initial initial; background-repeat: initial initial;">
+                                </div><span style="text-decoration: none; text-align: center; display: block; vertical-align: baseline; font-size: 100%; font-style: normal; text-indent: 0px; line-height: 1; width: auto; margin: 0px auto; padding: 0px; border: 0px; background-color: transparent; position: relative; top: 0px; right: 0px; bottom: 0px; left: 0px; clear: both; float: none; cursor: default; color: black; background-position: initial initial; background-repeat: initial initial;"><a href="http://www.digicert.com/unified-communications-ssl-tls.htm" style="text-decoration: none; text-align: center; display: inline; vertical-align: baseline; font-size: 100%; font-style: normal; text-indent: 0px; line-height: 1; width: auto; margin: 0px auto; padding: 0px; border: 0px; background-color: transparent; position: relative; top: 0px; right: 0px; bottom: 0px; left: 0px; clear: both; float: none; cursor: pointer; color: black; background-position: initial initial; background-repeat: initial initial;">UCC SSL Certificate</a></span>
+                            </div>
+                            <script type="text/javascript">
+                                var __dcid = __dcid || [];__dcid.push(["DigiCertClickID_bYOePgcq", "7", "m", "black", "bYOePgcq"]);(function(){var cid=document.createElement("script");cid.async=true;cid.src="//seal.digicert.com/seals/cascade/seal.min.js";var s = document.getElementsByTagName("script");var ls = s[(s.length - 1)];ls.parentNode.insertBefore(cid, ls.nextSibling);}());
+                            </script>
+                            <script async="" src="//seal.digicert.com/seals/cascade/seal.min.js"></script>
+                            <!-- End DigiCert site seal HTML and JavaScript -->
+                            <p></p>
+                            <p>Medios de Pago
+                                <img alt="Gran Panda" src="/arquivos/payment-logos.png?v=635524511215470000">
+                            </p>
+                            <p></p>
+                        </div>
+                </div>
+            </div>
+        </div>
+        <!-- /SubTemplate: Footer -->
+    </div>
+    <div class="background-lightbox">
+        <div class="lightbox-img">
+            <img alt="Chevignon guia de tallas" src="/arquivos/guia-tallas-chevignon.jpg?v=635524747496770000">
+        </div>
+    </div>
+    <script language="javascript" src="http://chevignon.vteximg.com.br/arquivos/js/60ddcefa76864bae914c4dcb668f5769-BodyBottom-1-1.4.174.645.js" type="text/javascript"></script>
+
+    <div style="display: none; visibility: hidden;">
+
+        <script type="text/javascript">
+            document.write(unescape("%3Cscript%20src\x3d'"+("https:"==document.location.protocol?"https://clicktalecdn.sslcs.cdngc.net/www02/ptc/10adb63e-9665-4e10-a811-b9fd02ac795a.js":"http://cdn.clicktale.net/www02/ptc/10adb63e-9665-4e10-a811-b9fd02ac795a.js")+"'%20type\x3d'text/javascript'%3E%3C/script%3E"));
+        </script>
+        <script src="http://cdn.clicktale.net/www02/ptc/10adb63e-9665-4e10-a811-b9fd02ac795a.js" type="text/javascript"></script>
+        <div id="ClickTaleDiv" style="display: none;">
+            <script src="http://cdn.clicktale.net/www/tc/WRe21.js" type="text/javascript"></script>
+
+        </div>
+    </div>
+    <ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" role="listbox" aria-activedescendant="ui-active-menuitem" style="z-index: 1009; top: 0px; left: 0px; display: none;"></ul>
+    <ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" role="listbox" aria-activedescendant="ui-active-menuitem" style="z-index: 10; top: 0px; left: 0px; display: none;"></ul>
+    <script type="text/javascript" id="">
+        window.criteo_q=window.criteo_q||[];window.criteo_q.push({event:"setAccount",account:18467},{event:"setHashedEmail",email:""},{event:"setSiteType",type:"d"},{event:"viewItem",item:parseInt(dataLayer[0].productId)});
+    </script>
+    <div>
+        <iframe style="border: none; background-color: transparent; z-index: 999998; position: fixed; bottom: 50px; min-width: 400px; right: 5px; height: 419px; width: 432px; visibility: hidden; left: -9999px; background-position: initial initial; background-repeat: initial initial;"
+        id="ticketSubmissionForm" data-reactid=".0" allowtransparency="true"></iframe>
+    </div>
+    <div>
+        <iframe style="border: none; background-color: transparent; z-index: 999998; width: 124px; height: 48px; position: fixed; bottom: 10px; right: 20px; visibility: hidden; left: -9999px; background-position: initial initial; background-repeat: initial initial;"
+        id="launcher" data-reactid=".2" allowtransparency="true"></iframe>
+    </div>
+    <div id="criteo-tags-div" style="display: none;">
+        <iframe height="0" width="0" src="http://dis.us.criteo.com/dis/dis.aspx?p=18467&amp;cb=62420003651&amp;ref=&amp;sc_r=1600x900&amp;sc_d=32" allowtransparency="true" style="display: none;"></iframe>
+    </div>
+</body>
+
+</html>

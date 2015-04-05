@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="shortcut icon" href="../../docs-assets/ico/favicon.png">
+
+    <title>Vabrik Fashion</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="../bootstrap/css/bootstrap.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="../css/dashboard.css" rel="stylesheet">
+    <link href="../css/personalizar.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+    <script>
+    function allowDrop(ev) {
+    ev.preventDefault();
+    }
+
+    function drag(ev) {
+        ev.dataTransfer.setData("text", ev.target.id);
+    }
+
+    function drop(ev) {
+        ev.preventDefault();
+        var data = ev.dataTransfer.getData("text");
+        ev.target.appendChild(document.getElementById(data));
+    }
+    </script>
+</head>
+
+<body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#">Vabrik Fashion</a>
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="#">Carrito</a>
+                    </li>
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="../vabrik.html">Sign out</a>
+                    </li>
+                </ul>
+                <form class="navbar-form navbar-right">
+                    <input type="text" class="form-control" placeholder="Search...">
+                    <button type="submit" class="btn btn-info">Search</button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-sm-3 sidebar">
+                <ul class="nav nav-sidebar">
+                    <li><a href="../html/perfil.html">Perfil</a>
+                    </li>
+                </ul>
+                <ul class="nav nav-sidebar">
+                    <li><a href="../html/comprador_catalogo_camiseta.html">Camisetas</a>
+                    </li>
+                    <li class="active"><a href="../html/comprador_catalogo_estampado.html">Estampados</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-sm-9 col-sm-offset-3 main">
+                <h1 class="page-header">Personaliza tu Camiseta!</h1>
+                
+                <div class="row placeholders">
+                    <div class="container-fluid">
+                        <div class="content-wrapper">   
+                            <div class="item-container">    
+                                <div class="container"> 
+                                    <div class="col-md-9">
+                                        <div class="product col-md-9 service-image-left">
+                                        
+                                            <center>
+                                                <div id="col-md-12 container">
+                                                <img id="image" src="http://www.siman.com/media/catalog/product/cache/1/image/920x/9df78eab33525d08d6e5fb8d27136e95/4/9/490395300043.jpg" width="400" height="300"/>
+                                                <div class="dragg" id="text" ondrop="drop(event)" ondragover="allowDrop(event)" >
+                                                </div>
+                                                </div>
+                                            </center>
+                                        </div>
+                                        
+                                        <div class="container service1-items col-sm-1 col-md-1 pull-left">
+                                            <center>
+                                                <a id="item-1" class="service1-item">
+                                                    <img src="http://www.siman.com/media/catalog/product/cache/1/image/920x/9df78eab33525d08d6e5fb8d27136e95/4/9/490395300043.jpg" alt=""></img>
+                                                </a>
+                                                <a id="item-2" class="service1-item">
+                                                    <img src="http://www.huetrap.com/imageuploads/product/00243/1000X1000_20140324173759_HT12WKGRAWHT00243%20BACK.jpg" alt=""></img>
+                                                </a>
+                                            </center>
+                                        </div>
+                                    </div>
+                                        
+                                    <div class="col-md-2">
+                                        <div class="product-rating"><i class="fa fa-star gold"></i> <i class="fa fa-star gold"></i> <i class="fa fa-star gold"></i> <i class="fa fa-star gold"></i> <i class="fa fa-star-o"></i> </div>
+                                        <hr>
+
+                                        <div class="product-price">$ 10.000</div>
+                                        <div class="product-stock">In Stock</div>
+                                        <hr>
+                                        <div class="btn-group cart">
+                                            <button type="button" class="btn btn-success" onClick="location.href='../html/carrito.html'">
+                                                Add to cart 
+                                            </button>
+                                        </div>
+
+                                    </div>
+                                </div> 
+                            </div>
+
+                            <div class="container-fluid">       
+                                <div class="col-md-12 product-info">
+                                        <ul id="myTab" class="nav nav-tabs nav_tabs">
+                                            
+                                            <li class="active"><a href="#service-one" data-toggle="tab">Descripción</a></li>
+                                            <li><a href="#service-two" data-toggle="tab">Tamaño y Color</a></li>
+                                            <li><a href="#service-three" data-toggle="tab">Estampas</a></li>
+                                            
+                                        </ul>
+                                    <div id="myTabContent" class="tab-content">
+                                            <div class="tab-pane fade in active" id="service-one">
+                                             
+                                                <section class="container product-info">
+                                                    <div class="product-title">Cuello en V</div>
+                                        <div class="product-desc">Camiseta 100% algodon</div>
+                                                </section>
+                                                              
+                                            </div>
+                                        <div class="tab-pane fade" id="service-two">
+                                            
+                                            <section class="container">
+                                                <br /><br />
+                                                    <div class="container">
+                                <label for="fun" class="col-sm-2 col-md-2 control-label text-right">Color</label>
+                                        <div class="btn-group" data-toggle="buttons">
+            
+                                            <label class="btn btn-success">
+                                                <input type="radio" name="options" id="option2" autocomplete="off" chacked>
+                                                <span class="glyphicon glyphicon-ok"></span>
+                                            </label>
+
+                                            <label class="btn btn-default active">
+                                                <input type="radio" name="options" id="option1" autocomplete="off">
+                                                <span class="glyphicon glyphicon-ok"></span>
+                                            </label>
+
+                                            <label class="btn btn-info">
+                                                <input type="radio" name="options" id="option2" autocomplete="off">
+                                                <span class="glyphicon glyphicon-ok"></span>
+                                            </label>
+
+                                            <label class="btn btn-primary">
+                                                <input type="radio" name="options" id="option2" autocomplete="off">
+                                                <span class="glyphicon glyphicon-ok"></span>
+                                            </label>
+
+                                            <label class="btn btn-warning">
+                                                <input type="radio" name="options" id="option2" autocomplete="off">
+                                                <span class="glyphicon glyphicon-ok"></span>
+                                            </label>
+
+                                            <label class="btn btn-danger">
+                                                <input type="radio" name="options" id="option2" autocomplete="off">
+                                                <span class="glyphicon glyphicon-ok"></span>
+                                            </label>
+                                        
+                                        </div>
+                                        <br /><br />
+                                        <label for="fun" class="col-sm-2 col-md-2 control-label text-right">Talla</label>
+                                         <div class="funkyradio">
+                                            <div class="col-md-2 funkyradio-primary">
+                                                <input type="radio" name="radio" id="radio1" />
+                                                <label for="radio1">XS</label>
+                                            </div>
+                                            <div class="col-md-2 funkyradio-primary">
+                                                <input type="radio" name="radio" id="radio2" checked/>
+                                                <label for="radio2">S</label>
+                                            </div>
+                                            <div class="col-md-2 funkyradio-primary">
+                                                <input type="radio" name="radio" id="radio3" />
+                                                <label for="radio3">M</label>
+                                            </div>
+                                            <div class="col-md-2 funkyradio-primary">
+                                                <input type="radio" name="radio" id="radio4" />
+                                                <label for="radio4">L</label>
+                                            </div>
+                                            <div class="col-md-2 funkyradio-primary">
+                                                <input type="radio" name="radio" id="radio5" />
+                                                <label for="radio5">XL</label>
+                                            </div>
+                                        </div>
+                                    </div>
+                                            </section>
+                                            
+                                        </div>
+                                        <div class="tab-pane fade" id="service-three">
+                                            <section class="container">
+
+                
+                                                <br/><p>Arrastra una estampa sobre la camiseta</p><br/>
+
+                                                    <div class="row placeholders">
+                                                        <div class="col-xs-6 col-sm-3 placeholder">
+                                                            <a href="../html/personalizar.html">
+                                                                <div class="dragg" id="div3" ondrop="drop(event)" ondragover="allowDrop(event)">
+                                                                  <img src="http://pinegrow.com/placeholders/img4.jpg" class="img-circle" alt="Generic placeholder thumbnail"  draggable="true" ondragstart="drag(event)" id="drag3" width="90" height="90">
+                                                                </div>
+                                                                <h4>Paisaje 1</h4>
+                                                                <span class="text-muted">$10.000</span>
+                                                            </a>
+                                                        </div>
+                                                        <div class="col-xs-6 col-sm-3 placeholder">
+                                                            <a href="../html/personalizar.html">
+                                                                <div class="dragg" id="div4" ondrop="drop(event)" ondragover="allowDrop(event)">
+                                                                  <img src="http://pinegrow.com/placeholders/img3.jpg" class="img-circle" alt="Generic placeholder thumbnail"  draggable="true" ondragstart="drag(event)" id="drag4" width="90" height="90">
+                                                                </div>
+                                                                <h4>Paisaje 2</h4>
+                                                                <span class="text-muted">$5.000</span>
+                                                            </a>
+                                                        </div>
+                                                        <div class="col-xs-6 col-sm-3 placeholder">
+                                                            <a href="../html/personalizar.html">
+                                                                <div class="dragg" id="div5" ondrop="drop(event)" ondragover="allowDrop(event)">
+                                                                  <img src="http://pinegrow.com/placeholders/img8.jpg" class="img-circle" alt="Generic placeholder thumbnail"  draggable="true" ondragstart="drag(event)" id="drag5" width="90" height="90">
+                                                                </div>
+                                                                <h4>Paisaje 3</h4>
+                                                                <span class="text-muted">$6.000</span>
+                                                            </a>
+                                                        </div>
+                                                        <div class="col-xs-6 col-sm-3 placeholder">
+                                                            <a href="../html/personalizar.html">
+                                                                <div class="dragg" id="div6" ondrop="drop(event)" ondragover="allowDrop(event)">
+                                                                  <img src="http://pinegrow.com/placeholders/img6.jpg" class="img-circle" alt="Generic placeholder thumbnail"  draggable="true" ondragstart="drag(event)" id="drag6" width="90" height="90">
+                                                                </div>
+                                                                <h4>Paisaje 4</h4>
+                                                                <span class="text-muted">$7.000</span>
+                                                            </a>
+                                                        </d
+                                            </section>                    
+                                        </div>
+                                    </div>
+                                    <hr>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+    </div>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script src="../bootstrap/js/bootstrap.min.js"></script>
+
+
+
+
+
+</body>
+
+</html>

@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="shortcut icon" href="../../docs-assets/ico/favicon.png">
+
+    <title>Vabrik Fashion</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="../bootstrap/css/bootstrap.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="../css/dashboard.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+<body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#">Vabrik Fashion</a>
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="../html/carrito.html">Carrito</a>
+                    </li>
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="../vabrik.html">Sign out</a>
+                    </li>
+                </ul>
+                <form class="navbar-form navbar-right">
+                    <input type="text" class="form-control" placeholder="Search...">
+                    <button type="submit" class="btn btn-info" >Search</button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-sm-3 sidebar">
+                <ul class="nav nav-sidebar">
+                    <li class="active"><a href="../html/perfil.html">Perfil</a>
+                    </li>
+                </ul>
+                <ul class="nav nav-sidebar">
+                    <li ><a href="../html/comprador_catalogo_camiseta.html">Camisetas</a>
+                    </li>
+                    <li ><a href="../html/comprador_catalogo_estampado.html">Estampados</a>
+                    </li>
+                </ul>
+
+            </div>
+            <div class="col-sm-9 col-sm-offset-3 main">
+                <h1 class="page-header">Perfil</h1>
+                <div class="well">
+                    <ul class="nav nav-tabs">
+                      <li class="active"><a href="#home" data-toggle="tab">Profile</a></li>
+                      <li><a href="#profile" data-toggle="tab">Password</a></li>
+                    </ul>
+                    <div id="myTabContent" class="tab-content">
+                      <div class="tab-pane active in" id="home">
+
+                        <form id="tab">
+                            <br/>
+                            <div class="form-group">
+                                <label class="control-label">Usuario</label>
+                                <input  maxlength="100" type="text" required="required" class="form-control" value="vp.salcedo93"  />
+                            </div>
+                            <div class="form-group">
+                                <label class="control-label">Nombres</label>
+                                <input  maxlength="100" type="text" required="required" class="form-control" value="Viviana"/>
+                            </div>
+                            <div class="form-group">
+                                <label class="control-label">Apellidos</label>
+                                <input maxlength="100" type="text" required="required" class="form-control" value="Salcedo"/>
+                            </div>
+                            <div class="form-group">
+                                <label class="control-label">Correo Electrónico</label>
+                                <input maxlength="100" type="text" required="required" class="form-control" value="vp.salcedo93@uniandes.edu.co"/>
+                            </div>
+                            <div class="form-group">
+                                <label class="control-label">Dirección</label>
+                                <input maxlength="100" type="text" required="required" class="form-control" value="Cra 49B No. 169 - 50"/>
+                            </div>
+                            <div class="form-group">
+                                <label class="control-label">Ciudad</label>
+                                <input maxlength="100" type="text" required="required" class="form-control" value="Bogota"/>
+                            </div>
+                            <div class="form-group">
+                                <label class="control-label">País</label>
+                                <input maxlength="100" type="text" required="required" class="form-control" value="Colombia"/>
+                            </div>
+                            <div class="form-group">
+                                <label class="control-label">Código postal</label>
+                                <input maxlength="100" type="text" required="required" class="form-control" value="81229"/>
+                            </div>
+                            <div class="form-group">
+                                <label class="control-label">Teléfono</label>
+                                <input maxlength="100" type="text" required="required" class="form-control" value="(+57) 6770434" placeholder="(+XXX)XXX-XXXX" />
+                            </div>
+                            
+                            <div>
+                                <button class="btn btn-primary">Update</button>
+                            </div>
+                        </form>
+                      </div>
+                      <div class="tab-pane fade" id="profile">
+                        <form id="tab2">
+                            <br/>
+                            <div class="form-group">
+                                <label class="control-label">Nueva Contraseña</label>
+                                <input  maxlength="100" type="password" required="required" class="form-control"   />
+                            </div>
+                            <div>
+                                <button class="btn btn-primary">Update</button>
+                            </div>
+                        </form>
+                      </div>
+                  </div>
+               
+            </div>
+        </div>
+    </div>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script src="../bootstrap/js/bootstrap.min.js"></script>
+
+
+
+</body>
+
+</html>
